@@ -1,0 +1,15 @@
+version: '3'
+services:
+  web:
+    build:
+      context: .
+      target: dev    # Use the 'dev' stage for development
+    ports:
+      - '3000:3000'  # Map the React dev server port
+    volumes:
+      - ./src:/app/src          # Sync local 'src' folder with container
+      - ./public:/app/public    # Sync public folder as well
+      - ./node_modules:/app/node_modules  # Don't overwrite node_modules
+      - ./src/style:/app/src/style # Sync SCSS and CSS files
+    stdin_open: true
+    tty: true

@@ -1,0 +1,99 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Hind:wght@300;400;500;600;700&display=swap');
+/* Override Bootstrap variables */
+
+$primary-dark:#1e152a;
+$secondary-dark:#4e6766;
+$primary-light:#5ab1bb;
+$secondary-light:#a5c882;
+$tertiary-light:#f7dd72;
+
+$font-family-base: 'Hind', sans-serif; /* Change base font */
+$headings-font-family: 'Bitter', serif; /* Change headings font */
+$dropdown-bg:$secondary-dark;
+$dropdown-link-hover-bg:$primary-dark;
+
+body{
+    text-align:left;
+}
+
+/*HOMEPAGE ==============================================*/
+
+/*NAVIGATION*/
+.nav-bg{
+    background-color:$primary-dark;
+}
+
+.nav-bg a{
+    font-family:$headings-font-family;
+    font-weight:600;
+}
+
+/*HERO*/
+.hero-text{
+    text-align:left;
+}
+.london-image{
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    min-width:400px;
+    object-fit:cover;
+}
+
+.mask-wrapper {
+    position: relative;
+    display:inline-block;
+}
+
+.mask-stroke {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-width:420px;
+    aspect-ratio: 1 / 1;
+    background-color: $secondary-dark; /* Color of the stroke */
+    mask-image: url('./assets/blob-1.svg'); /* Path to your SVG */
+    mask-size: cover;
+    -webkit-mask-image: url('./assets/blob-1.svg');
+    -webkit-mask-size: contain;
+    mask-repeat:no-repeat;
+    z-index: 1;
+    overflow:hidden;
+}
+
+.blob-mask-1 {
+    position: relative;
+    width: calc(100% - 20px);
+    min-width:400px;
+    aspect-ratio: 1 / 1;
+    mask-image: url('./assets/blob-1.svg');
+    mask-size: cover;
+    -webkit-mask-image: url('./assets/blob-1.svg');
+    -webkit-mask-size: contain;
+    z-index: 2;
+    mask-repeat:no-repeat;
+    top: 10px;
+    left: 10px;
+}
+
+/*PROJECT SECTION*/
+.hold-project-container{
+    background-color:$secondary-dark;
+}
+
+.featured-header{
+    color:white;
+    text-align:center;
+}
+.project-card-image{
+    width:100%;
+    aspect-ratio: 3 / 2;
+    object-fit:cover;
+}
+
+
+
+@import "bootstrap/scss/bootstrap";
+
