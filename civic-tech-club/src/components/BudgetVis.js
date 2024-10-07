@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -43,6 +43,11 @@ const BudgetVis = () => {
   const [chartTitle, setChartTitle] = useState('');
   const [chartData, setChartData] = useState({ labels: [], datasets: [] });
   const chartRef = useRef(null); // Create a ref for the chart
+
+  useEffect(() => {
+    // This code will run once when the component loads
+    handleChartChange('Gross Operating Expenditures');
+  }, []); // The empty array makes it run only once, when the component mounts
 
   const handleChartChange = (title) => {
     setChartTitle(title); // Set chart title for debugging or displaying
@@ -189,6 +194,8 @@ const BudgetVis = () => {
       chartRef.current.resetZoom();
     }
   };
+
+  
   
   return (
     <>
