@@ -1,6 +1,6 @@
 [
     {
-        "service": "Corporate Management.pdf",
+        "service": "Corporate Management",
         "cost-per-day": "$0.03",
         "net-prop-supported-budget-percentage": "0.28%",
         "budget": [
@@ -42,7 +42,7 @@
         ]
     },
     {
-        "service": "Bylaw Enforcement and Property Standards.pdf",
+        "service": "Bylaw Enforcement and Property Standards",
         "cost-per-day": "$0.02",
         "net-prop-supported-budget-percentage": "0.21%",
         "budget": [
@@ -84,7 +84,7 @@
         ]
     },
     {
-        "service": "Fleet Services.pdf",
+        "service": "Fleet Services",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.00%",
         "budget": [
@@ -126,7 +126,7 @@
         ]
     },
     {
-        "service": "AODA.pdf",
+        "service": "AODA",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.04%",
         "budget": [
@@ -168,7 +168,7 @@
         ]
     },
     {
-        "service": "Heritage.pdf",
+        "service": "Heritage",
         "cost-per-day": "$0.01",
         "net-prop-supported-budget-percentage": "0.06%",
         "budget": [
@@ -210,7 +210,7 @@
         ]
     },
     {
-        "service": "Dispatch.pdf",
+        "service": "Dispatch",
         "cost-per-day": "$0.01",
         "net-prop-supported-budget-percentage": "0.10%",
         "budget": [
@@ -252,7 +252,7 @@
         ]
     },
     {
-        "service": "London Regional Employment Services.pdf",
+        "service": "London Regional Employment Services",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.00%",
         "budget": [
@@ -294,7 +294,7 @@
         ]
     },
     {
-        "service": "Facilities.pdf",
+        "service": "Facilities",
         "cost-per-day": "$0.33",
         "net-prop-supported-budget-percentage": "3.03%",
         "budget": [
@@ -336,7 +336,7 @@
         ]
     },
     {
-        "service": "London Transit Commission.pdf",
+        "service": "London Transit Commission",
         "cost-per-day": "$0.81",
         "net-prop-supported-budget-percentage": "7.43%",
         "budget": [
@@ -378,7 +378,7 @@
         ]
     },
     {
-        "service": "Middlesex-London Health Unit.pdf",
+        "service": "Middlesex-London Health Unit",
         "cost-per-day": "$0.10",
         "net-prop-supported-budget-percentage": "0.87%",
         "budget": [
@@ -420,7 +420,7 @@
         ]
     },
     {
-        "service": "Traffic Control Street Lights.pdf",
+        "service": "Traffic Control Street Lights",
         "cost-per-day": "$0.22",
         "net-prop-supported-budget-percentage": "1.99%",
         "budget": [
@@ -462,7 +462,7 @@
         ]
     },
     {
-        "service": "Covent Garden Market.pdf",
+        "service": "Covent Garden Market",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.00%",
         "budget": [
@@ -504,7 +504,7 @@
         ]
     },
     {
-        "service": "Purchasing.pdf",
+        "service": "Purchasing",
         "cost-per-day": "$0.02",
         "net-prop-supported-budget-percentage": "0.18%",
         "budget": [
@@ -546,7 +546,7 @@
         ]
     },
     {
-        "service": "Emergency Management.pdf",
+        "service": "Emergency Management",
         "cost-per-day": "$0.02",
         "net-prop-supported-budget-percentage": "0.17%",
         "budget": [
@@ -588,7 +588,7 @@
         ]
     },
     {
-        "service": "Geomatics.pdf",
+        "service": "Geomatics",
         "cost-per-day": "$0.02",
         "net-prop-supported-budget-percentage": "0.18%",
         "budget": [
@@ -630,7 +630,7 @@
         ]
     },
     {
-        "service": "London Public Library.pdf",
+        "service": "London Public Library",
         "cost-per-day": "$0.31",
         "net-prop-supported-budget-percentage": "2.81%",
         "budget": [
@@ -672,7 +672,7 @@
         ]
     },
     {
-        "service": "Subsidized Transit.pdf",
+        "service": "Subsidized Transit",
         "cost-per-day": "$0.02",
         "net-prop-supported-budget-percentage": "0.17%",
         "budget": [
@@ -714,7 +714,7 @@
         ]
     },
     {
-        "service": "Parks and Horticulture.pdf",
+        "service": "Parks and Horticulture",
         "cost-per-day": "$0.12",
         "net-prop-supported-budget-percentage": "1.07%",
         "budget": [
@@ -756,7 +756,7 @@
         ]
     },
     {
-        "service": "Kettle Creek Conservation Authority.pdf",
+        "service": "Kettle Creek Conservation Authority",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.03%",
         "budget": [
@@ -812,7 +812,7 @@
         ]
     },
     {
-        "service": "RBC Place.pdf",
+        "service": "RBC Place",
         "cost-per-day": "$0.01",
         "net-prop-supported-budget-percentage": "0.08%",
         "budget": [
@@ -854,7 +854,7 @@
         ]
     },
     {
-        "service": "Museum London.pdf",
+        "service": "Museum London",
         "cost-per-day": "$0.03",
         "net-prop-supported-budget-percentage": "0.24%",
         "budget": [
@@ -896,7 +896,7 @@
         ]
     },
     {
-        "service": "Municipal Elections.pdf",
+        "service": "Municipal Elections",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "*0.00%",
         "budget": [
@@ -938,7 +938,7 @@
         ]
     },
     {
-        "service": "Community Development and Grants.pdf",
+        "service": "Community Development and Grants",
         "cost-per-day": "$0.07",
         "net-prop-supported-budget-percentage": "0.63%",
         "budget": [
@@ -980,7 +980,7 @@
         ]
     },
     {
-        "service": "Homemakers.pdf",
+        "service": "Homemakers",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.01%",
         "budget": [
@@ -1022,7 +1022,7 @@
         ]
     },
     {
-        "service": "People Services.pdf",
+        "service": "People Services",
         "cost-per-day": "$0.08",
         "net-prop-supported-budget-percentage": "0.70%",
         "budget": [
@@ -1064,7 +1064,7 @@
         ]
     },
     {
-        "service": "Special Events Coordination.pdf",
+        "service": "Special Events Coordination",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.05%",
         "budget": [
@@ -1106,7 +1106,7 @@
         ]
     },
     {
-        "service": "Roadway Maintenance.pdf",
+        "service": "Roadway Maintenance",
         "cost-per-day": "$0.18",
         "net-prop-supported-budget-percentage": "1.62%",
         "budget": [
@@ -1148,7 +1148,7 @@
         ]
     },
     {
-        "service": "Urban Forestry.pdf",
+        "service": "Urban Forestry",
         "cost-per-day": "$0.08",
         "net-prop-supported-budget-percentage": "0.70%",
         "budget": [
@@ -1190,7 +1190,7 @@
         ]
     },
     {
-        "service": "Housing Stability Services.pdf",
+        "service": "Housing Stability Services",
         "cost-per-day": "$0.18",
         "net-prop-supported-budget-percentage": "1.67%",
         "budget": [
@@ -1232,7 +1232,7 @@
         ]
     },
     {
-        "service": "Housing Services (Municipal Housing Development).pdf",
+        "service": "Housing Services (Municipal Housing Development)",
         "cost-per-day": "$0.19",
         "net-prop-supported-budget-percentage": "1.73%",
         "budget": [
@@ -1245,7 +1245,7 @@
         ]
     },
     {
-        "service": "Taxation.pdf",
+        "service": "Taxation",
         "cost-per-day": "$0.01",
         "net-prop-supported-budget-percentage": "0.12%",
         "budget": [
@@ -1287,7 +1287,7 @@
         ]
     },
     {
-        "service": "Storybook Gardens.pdf",
+        "service": "Storybook Gardens",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.03%",
         "budget": [
@@ -1329,7 +1329,7 @@
         ]
     },
     {
-        "service": "Development Services.pdf",
+        "service": "Development Services",
         "cost-per-day": "$0.07",
         "net-prop-supported-budget-percentage": "0.68%",
         "budget": [
@@ -1371,7 +1371,7 @@
         ]
     },
     {
-        "service": "Community Centres Business Plan.pdf",
+        "service": "Community Centres Business Plan",
         "cost-per-day": "$0.03",
         "net-prop-supported-budget-percentage": "0.26%",
         "budget": [
@@ -1413,7 +1413,7 @@
         ]
     },
     {
-        "service": "Ontario Works.pdf",
+        "service": "Ontario Works",
         "cost-per-day": "$0.19",
         "net-prop-supported-budget-percentage": "1.71%",
         "budget": [
@@ -1455,7 +1455,7 @@
         ]
     },
     {
-        "service": "Secretariat Support.pdf",
+        "service": "Secretariat Support",
         "cost-per-day": "$0.02",
         "net-prop-supported-budget-percentage": "0.17%",
         "budget": [
@@ -1497,7 +1497,7 @@
         ]
     },
     {
-        "service": "Fire Prevention and Education.pdf",
+        "service": "Fire Prevention and Education",
         "cost-per-day": "$0.05",
         "net-prop-supported-budget-percentage": "0.50%",
         "budget": [
@@ -1539,7 +1539,7 @@
         ]
     },
     {
-        "service": "Internal Audit.pdf",
+        "service": "Internal Audit",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.04%",
         "budget": [
@@ -1581,7 +1581,7 @@
         ]
     },
     {
-        "service": "Arenas.pdf",
+        "service": "Arenas",
         "cost-per-day": "$0.02",
         "net-prop-supported-budget-percentage": "0.14%",
         "budget": [
@@ -1623,7 +1623,7 @@
         ]
     },
     {
-        "service": "Art Culture and Heritage Advisory Funding.pdf",
+        "service": "Art Culture and Heritage Advisory Funding",
         "cost-per-day": "$0.03",
         "net-prop-supported-budget-percentage": "0.28%",
         "budget": [
@@ -1665,7 +1665,7 @@
         ]
     },
     {
-        "service": "ARAO.pdf",
+        "service": "ARAO",
         "cost-per-day": "$0.01",
         "net-prop-supported-budget-percentage": "0.10%",
         "budget": [
@@ -1707,7 +1707,7 @@
         ]
     },
     {
-        "service": "ITS.pdf",
+        "service": "ITS",
         "cost-per-day": "$0.30",
         "net-prop-supported-budget-percentage": "*2.77%",
         "budget": [
@@ -1749,7 +1749,7 @@
         ]
     },
     {
-        "service": "Legal Services.pdf",
+        "service": "Legal Services",
         "cost-per-day": "$0.04",
         "net-prop-supported-budget-percentage": "0.40%",
         "budget": [
@@ -1791,7 +1791,7 @@
         ]
     },
     {
-        "service": "Winter Maintenance.pdf",
+        "service": "Winter Maintenance",
         "cost-per-day": "$0.23",
         "net-prop-supported-budget-percentage": "2.08%",
         "budget": [
@@ -1833,7 +1833,7 @@
         ]
     },
     {
-        "service": "Employee Systems.pdf",
+        "service": "Employee Systems",
         "cost-per-day": "$0.01",
         "net-prop-supported-budget-percentage": "0.08%",
         "budget": [
@@ -1875,7 +1875,7 @@
         ]
     },
     {
-        "service": "Realty Services.pdf",
+        "service": "Realty Services",
         "cost-per-day": "$0.01",
         "net-prop-supported-budget-percentage": "0.10%",
         "budget": [
@@ -1917,7 +1917,7 @@
         ]
     },
     {
-        "service": "Community Improvement BIA.pdf",
+        "service": "Community Improvement BIA",
         "cost-per-day": "$0.04",
         "net-prop-supported-budget-percentage": "0.40%",
         "budget": [
@@ -1959,7 +1959,7 @@
         ]
     },
     {
-        "service": "Building Approvals.pdf",
+        "service": "Building Approvals",
         "cost-per-day": "$0.02",
         "net-prop-supported-budget-percentage": "0.20%",
         "budget": [
@@ -2001,7 +2001,7 @@
         ]
     },
     {
-        "service": "Councillors Office.pdf",
+        "service": "Councillors Office",
         "cost-per-day": "$0.03",
         "net-prop-supported-budget-percentage": "0.25%",
         "budget": [
@@ -2043,7 +2043,7 @@
         ]
     },
     {
-        "service": "Finance Payroll Services.pdf",
+        "service": "Finance Payroll Services",
         "cost-per-day": "$0.02",
         "net-prop-supported-budget-percentage": "0.15%",
         "budget": [
@@ -2085,7 +2085,7 @@
         ]
     },
     {
-        "service": "Strategic Communications and Government Relations.pdf",
+        "service": "Strategic Communications and Government Relations",
         "cost-per-day": "$0.03",
         "net-prop-supported-budget-percentage": "0.23%",
         "budget": [
@@ -2127,7 +2127,7 @@
         ]
     },
     {
-        "service": "Parking.pdf",
+        "service": "Parking",
         "cost-per-day": "$0.05",
         "net-prop-supported-budget-percentage": "-0.47%",
         "budget": [
@@ -2169,7 +2169,7 @@
         ]
     },
     {
-        "service": "Service London.pdf",
+        "service": "Service London",
         "cost-per-day": "$0.01",
         "net-prop-supported-budget-percentage": "0.13%",
         "budget": [
@@ -2211,7 +2211,7 @@
         ]
     },
     {
-        "service": "Mayor's Office.pdf",
+        "service": "Mayor's Office",
         "cost-per-day": "$0.01",
         "net-prop-supported-budget-percentage": "0.07%",
         "budget": [
@@ -2253,7 +2253,7 @@
         ]
     },
     {
-        "service": "Parks Planning and Design.pdf",
+        "service": "Parks Planning and Design",
         "cost-per-day": "$0.02",
         "net-prop-supported-budget-percentage": "0.14%",
         "budget": [
@@ -2295,7 +2295,7 @@
         ]
     },
     {
-        "service": "Other Related Financing.pdf",
+        "service": "Other Related Financing",
         "cost-per-day": "$0.20",
         "net-prop-supported-budget-percentage": "1.81%",
         "budget": [
@@ -2337,7 +2337,7 @@
         ]
     },
     {
-        "service": "Centennial Hall.pdf",
+        "service": "Centennial Hall",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.02%",
         "budget": [
@@ -2379,7 +2379,7 @@
         ]
     },
     {
-        "service": "Immigration.pdf",
+        "service": "Immigration",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.03%",
         "budget": [
@@ -2421,7 +2421,7 @@
         ]
     },
     {
-        "service": "Sports Services.pdf",
+        "service": "Sports Services",
         "cost-per-day": "$0.02",
         "net-prop-supported-budget-percentage": "0.17%",
         "budget": [
@@ -2463,7 +2463,7 @@
         ]
     },
     {
-        "service": "Garbage Recycling.pdf",
+        "service": "Garbage Recycling",
         "cost-per-day": "$0.35",
         "net-prop-supported-budget-percentage": "3.23%",
         "budget": [
@@ -2505,7 +2505,7 @@
         ]
     },
     {
-        "service": "Child Care and Early Years.pdf",
+        "service": "Child Care and Early Years",
         "cost-per-day": "$0.10",
         "net-prop-supported-budget-percentage": "0.87%",
         "budget": [
@@ -2547,7 +2547,7 @@
         ]
     },
     {
-        "service": "Fire Rescue Services.pdf",
+        "service": "Fire Rescue Services",
         "cost-per-day": "$0.86",
         "net-prop-supported-budget-percentage": "7.89%",
         "budget": [
@@ -2589,7 +2589,7 @@
         ]
     },
     {
-        "service": "Human Rights.pdf",
+        "service": "Human Rights",
         "cost-per-day": "$0.01",
         "net-prop-supported-budget-percentage": "0.05%",
         "budget": [
@@ -2631,7 +2631,7 @@
         ]
     },
     {
-        "service": "Eldon House.pdf",
+        "service": "Eldon House",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.04%",
         "budget": [
@@ -2673,7 +2673,7 @@
         ]
     },
     {
-        "service": "Rapid Transit.pdf",
+        "service": "Rapid Transit",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.03%",
         "budget": [
@@ -2715,7 +2715,7 @@
         ]
     },
     {
-        "service": "Adult Day.pdf",
+        "service": "Adult Day",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.01%",
         "budget": [
@@ -2757,7 +2757,7 @@
         ]
     },
     {
-        "service": "Dearness Home Long Term Care.pdf",
+        "service": "Dearness Home Long Term Care",
         "cost-per-day": "$0.09",
         "net-prop-supported-budget-percentage": "0.82%",
         "budget": [
@@ -2799,7 +2799,7 @@
         ]
     },
     {
-        "service": "Roadway Planning Design.pdf",
+        "service": "Roadway Planning Design",
         "cost-per-day": "$0.05",
         "net-prop-supported-budget-percentage": "0.49%",
         "budget": [
@@ -2841,7 +2841,7 @@
         ]
     },
     {
-        "service": "Water.pdf",
+        "service": "Water",
         "cost-per-day": "unknown",
         "net-prop-supported-budget-percentage": "unknown",
         "budget": [
@@ -2876,7 +2876,7 @@
         ]
     },
     {
-        "service": "Community Recreation _26 Leisure Programs.pdf",
+        "service": "Community Recreation _26 Leisure Programs",
         "cost-per-day": "$0.02",
         "net-prop-supported-budget-percentage": "0.18%",
         "budget": [
@@ -2918,7 +2918,7 @@
         ]
     },
     {
-        "service": "Top of the Hall Cafeteria.pdf",
+        "service": "Top of the Hall Cafeteria",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.02%",
         "budget": [
@@ -2953,7 +2953,7 @@
         ]
     },
     {
-        "service": "Risk Management.pdf",
+        "service": "Risk Management",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.04%",
         "budget": [
@@ -2995,7 +2995,7 @@
         ]
     },
     {
-        "service": "Economic Development.pdf",
+        "service": "Economic Development",
         "cost-per-day": "$0.10",
         "net-prop-supported-budget-percentage": "0.90%",
         "budget": [
@@ -3037,7 +3037,7 @@
         ]
     },
     {
-        "service": "London Middlesex Community Housing.pdf",
+        "service": "London Middlesex Community Housing",
         "cost-per-day": "$0.23",
         "net-prop-supported-budget-percentage": "2.10%",
         "budget": [
@@ -3079,7 +3079,7 @@
         ]
     },
     {
-        "service": "Advisory Committees.pdf",
+        "service": "Advisory Committees",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.01%",
         "budget": [
@@ -3121,7 +3121,7 @@
         ]
     },
     {
-        "service": "Animal Services.pdf",
+        "service": "Animal Services",
         "cost-per-day": "$0.03",
         "net-prop-supported-budget-percentage": "0.24%",
         "budget": [
@@ -3163,7 +3163,7 @@
         ]
     },
     {
-        "service": "Licensing and Certificates.pdf",
+        "service": "Licensing and Certificates",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "-0.01%",
         "budget": [
@@ -3205,7 +3205,7 @@
         ]
     },
     {
-        "service": "Climate Change Environmental Stewardship.pdf",
+        "service": "Climate Change Environmental Stewardship",
         "cost-per-day": "$0.02",
         "net-prop-supported-budget-percentage": "0.19%",
         "budget": [
@@ -3247,7 +3247,7 @@
         ]
     },
     {
-        "service": "Security Services.pdf",
+        "service": "Security Services",
         "cost-per-day": "$0.03",
         "net-prop-supported-budget-percentage": "0.29%",
         "budget": [
@@ -3289,7 +3289,7 @@
         ]
     },
     {
-        "service": "Aquatics.pdf",
+        "service": "Aquatics",
         "cost-per-day": "$0.02",
         "net-prop-supported-budget-percentage": "0.19%",
         "budget": [
@@ -3331,7 +3331,7 @@
         ]
     },
     {
-        "service": "Wastewater.pdf",
+        "service": "Wastewater",
         "cost-per-day": "unknown",
         "net-prop-supported-budget-percentage": "unknown",
         "budget": [
@@ -3366,7 +3366,7 @@
         ]
     },
     {
-        "service": "Capital Financing.pdf",
+        "service": "Capital Financing",
         "cost-per-day": "$1.90",
         "net-prop-supported-budget-percentage": "17.31%",
         "budget": [
@@ -3422,7 +3422,7 @@
         ]
     },
     {
-        "service": "Information and Archive Management.pdf",
+        "service": "Information and Archive Management",
         "cost-per-day": "$0.02",
         "net-prop-supported-budget-percentage": "0.21%",
         "budget": [
@@ -3464,7 +3464,7 @@
         ]
     },
     {
-        "service": "Administration of Justice.pdf",
+        "service": "Administration of Justice",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.01%",
         "budget": [
@@ -3506,7 +3506,7 @@
         ]
     },
     {
-        "service": "Finance.pdf",
+        "service": "Finance",
         "cost-per-day": "$0.11",
         "net-prop-supported-budget-percentage": "1.00%",
         "budget": [
@@ -3548,7 +3548,7 @@
         ]
     },
     {
-        "service": "Tourism London.pdf",
+        "service": "Tourism London",
         "cost-per-day": "$0.03",
         "net-prop-supported-budget-percentage": "0.29%",
         "budget": [
@@ -3590,7 +3590,7 @@
         ]
     },
     {
-        "service": "Recreation Administration.pdf",
+        "service": "Recreation Administration",
         "cost-per-day": "$0.04",
         "net-prop-supported-budget-percentage": "0.40%",
         "budget": [
@@ -3632,7 +3632,7 @@
         ]
     },
     {
-        "service": "Lower Thames Valley Conservation Authority.pdf",
+        "service": "Lower Thames Valley Conservation Authority",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.01%",
         "budget": [
@@ -3688,7 +3688,7 @@
         ]
     },
     {
-        "service": "Planning Services.pdf",
+        "service": "Planning Services",
         "cost-per-day": "$0.05",
         "net-prop-supported-budget-percentage": "0.48%",
         "budget": [
@@ -3730,7 +3730,7 @@
         ]
     },
     {
-        "service": "Upper Thames River Conservation Authority.pdf",
+        "service": "Upper Thames River Conservation Authority",
         "cost-per-day": "$0.03",
         "net-prop-supported-budget-percentage": "0.29%",
         "budget": [
@@ -3786,7 +3786,7 @@
         ]
     },
     {
-        "service": "Asset Management.pdf",
+        "service": "Asset Management",
         "cost-per-day": "$0.01",
         "net-prop-supported-budget-percentage": "0.05%",
         "budget": [
@@ -3828,7 +3828,7 @@
         ]
     },
     {
-        "service": "Golf.pdf",
+        "service": "Golf",
         "cost-per-day": "$0.00",
         "net-prop-supported-budget-percentage": "0.00%",
         "budget": [
