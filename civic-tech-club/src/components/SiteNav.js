@@ -9,7 +9,7 @@ const SiteNav = () => {
     return (
         <Navbar expand="lg" data-bs-theme="dark" className="nav-bg" >
           <Container>
-            <Navbar.Brand href="#home">London Civic Tech Club</Navbar.Brand>
+            <Navbar.Brand href="/">London Civic Tech Club</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav" >
               <Nav className="ms-auto justify-content-end">
