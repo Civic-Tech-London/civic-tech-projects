@@ -2,6 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Hind:wght@300;400;500;600;700&display=swap');
 /* Override Bootstrap variables */
+$primary:#4e6766;
 
 $primary-dark:#1e152a;
 $secondary-dark:#4e6766;
@@ -71,6 +72,11 @@ h3{
 .blob-mask-5{
     mask-image: url('./assets/blob-5.svg');
     -webkit-mask-image: url('./assets/blob-5.svg');
+}
+
+.content-container{
+    height:100vh;
+    text-align:left;
 }
 
 
@@ -218,6 +224,10 @@ h3{
     height:auto;
     fill:white;
 }
+
+/*PD CALENDAR=============================================*/
+
+
 
 @import "bootstrap/scss/bootstrap";
 

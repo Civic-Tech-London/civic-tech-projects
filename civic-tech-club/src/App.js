@@ -1,21 +1,21 @@
 
 import './App.css';
-import SiteNav from './components/SiteNav';
-import Hero from './components/Hero';
-import HoldProjects from './components/HoldProjects';
-import HoldProfiles from './components/HoldProfiles';
-import Footer from './components/Footer';
-
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Home from './pages/Home';  // Your existing Home component
+import LondonBudget from './pages/LondonBudget'; // The new About component
+import PDCalendar from './pages/PDCalendar';
 function App() {
   return (
-    <div className="App">
-      <SiteNav/>
-      <Hero/>
-      <HoldProjects/>
-      <HoldProfiles/>
-      <Footer/>
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/london-budget" element={<LondonBudget />} />
+        <Route path="/pd-calendar" element={<PDCalendar />} />
+
+      </Routes>
+    </Router>
   );
 }
 
 export default App;
+

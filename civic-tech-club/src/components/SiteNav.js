@@ -13,9 +13,9 @@ const SiteNav = () => {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav" >
               <Nav className="ms-auto justify-content-end">
-                <Nav.Link href="#projects">Projects</Nav.Link>
-                <Nav.Link href="#contributers">Contributers</Nav.Link>
-                <Nav.Link href="#contact">Contact</Nav.Link>
+                <Nav.Link href="/#projects">Projects</Nav.Link>
+                <Nav.Link href="/#contributers">Contributers</Nav.Link>
+                <Nav.Link href="/#contact">Contact</Nav.Link>
               </Nav>
             </Navbar.Collapse>
           </Container>

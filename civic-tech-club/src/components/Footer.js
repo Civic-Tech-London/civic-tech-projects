@@ -11,9 +11,9 @@ const Footer = () =>{
                     <Col xs={12} md={6}>
                         <h2>Navigation</h2>
                         <ul>
-                            <li><a href="#projects">Projects</a></li>
-                            <li><a href="#contributers">Contributers</a></li>
-                            <li><a href="#contact">Contact</a></li>
+                            <li><a href="/#projects">Projects</a></li>
+                            <li><a href="/#contributers">Contributers</a></li>
+                            <li><a href="/#contact">Contact</a></li>
                         </ul>
                     </Col>
                     <Col xs={12} md={6}>
