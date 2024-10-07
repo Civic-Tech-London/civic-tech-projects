@@ -7,10 +7,10 @@ import Profile from './Profile'
 
 const HoldProfiles = () => {
     return(
-        <Container className="p-5">
+        <Container className="p-5" id="contributers">
             <Row className = "m-5">
                 <Col>
-                    <h2>Who We Are</h2>
+                    <h2>Contributers</h2>
                 </Col>
             </Row>
             <Row className="text-start">

@@ -189,6 +189,35 @@ h3{
     align-items:center;
 }
 
+/*FOOTER*/
+#contact{
+    color:white;
+    background-color:$primary-dark;
+}
+
+#contact ul{
+    margin-left:0;
+    padding-left:0;
+}
+#contact ul li{
+    list-style-type:none;
+    margin-left:0;
+    padding-left:0;
+}
+#contact a{
+    color:white;
+    text-decoration:none;
+}
+
+#contact a:hover{
+    text-decoration:underline;
+}
+
+.footer-icon{
+    width:30px;
+    height:auto;
+    fill:white;
+}
 
 @import "bootstrap/scss/bootstrap";
 

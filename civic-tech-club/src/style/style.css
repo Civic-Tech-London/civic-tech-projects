@@ -174,6 +174,38 @@ h3, .h3 {
   align-items: center;
 }
 
+/*FOOTER*/
+#contact {
+  color: white;
+  background-color: #1e152a;
+}
+
+#contact ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+#contact ul li {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+#contact a {
+  color: white;
+  text-decoration: none;
+}
+
+#contact a:hover {
+  text-decoration: underline;
+}
+
+.footer-icon {
+  width: 30px;
+  height: auto;
+  fill: white;
+}
+
 /*!
  * Bootstrap  v5.3.3 (https://getbootstrap.com/)
  * Copyright 2011-2024 The Bootstrap Authors

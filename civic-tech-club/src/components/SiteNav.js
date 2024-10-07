@@ -13,11 +13,8 @@ const SiteNav = () => {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav" >
               <Nav className="ms-auto justify-content-end">
-                <Nav.Link href="#about">About</Nav.Link>
-                <NavDropdown title="Projects" id="basic-nav-dropdown" data-bs-theme="dark">
-                  <NavDropdown.Item href="#" className="text-wrap">London Budget Visualizations</NavDropdown.Item>
-                  <NavDropdown.Item href="#" className="text-wrap">London Schoolboard PD Day Digital Calendar</NavDropdown.Item>
-                </NavDropdown>
+                <Nav.Link href="#projects">Projects</Nav.Link>
+                <Nav.Link href="#contributers">Contributers</Nav.Link>
                 <Nav.Link href="#contact">Contact</Nav.Link>
               </Nav>
             </Navbar.Collapse>

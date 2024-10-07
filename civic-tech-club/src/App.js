@@ -4,6 +4,7 @@ import SiteNav from './components/SiteNav';
 import Hero from './components/Hero';
 import HoldProjects from './components/HoldProjects';
 import HoldProfiles from './components/HoldProfiles';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Hero/>
       <HoldProjects/>
       <HoldProfiles/>
+      <Footer/>
     </div>
   );
 }

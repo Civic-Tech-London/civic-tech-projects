@@ -6,10 +6,10 @@ import CardGroup from 'react-bootstrap/CardGroup'
 
 const HoldProjects = () => {
     return(
-        <Container className="p-5 hold-project-container" fluid>
+        <Container className="p-5 hold-project-container" fluid id="projects">
            <Container>
                 <Row className="m-5">
-                    <h2 class="featured-header">Featured Projects</h2>
+                    <h2 class="featured-header">Projects</h2>
                 </Row>
                 <Row>
                     <CardGroup>
