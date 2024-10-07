@@ -210,8 +210,7 @@ const BudgetVis = () => {
         </Col>
         <Col xs={12} md={9}>
          <h2>{chartTitle}</h2>
-         <p><strong>Note:</strong> All monetary values are in 000s of dollars</p>
-          <Line ref={chartRef} data={chartData} options={options} plugins={[endLabelPlugin]} />
+         <Line ref={chartRef} data={chartData} options={options} plugins={[endLabelPlugin]} />
           <button className="btn btn-primary" onClick={resetZoom}>Reset Zoom</button> {/* Reset zoom button */}
         </Col>
       </Row>

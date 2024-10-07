@@ -11,6 +11,8 @@ const BudgetContent = () => {
                 <Col xs={12} >
                     <h1>City of London Budget Visualizations</h1>
                     <p>This project is intended to help people visualize the information provided in the budget <a href="https://london.ca/government/property-taxes-finance/municipal-budget/2024-2027-business-plans">Business Plan documents</a></p>
+                    <p><strong>Note:</strong> All monetary values are in 000s of dollars</p>
+         
                 </Col>
 
             </Row>
