@@ -3,8 +3,62 @@
 /* Override Bootstrap variables */
 /* Change base font */
 /* Change headings font */
-body {
-  text-align: left;
+/*GENERAL ================================================*/
+h2, .h2 {
+  font-weight: 800;
+}
+
+h3, .h3 {
+  font-weight: 600;
+}
+
+.mask-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.mask-stroke {
+  position: absolute;
+  top: 0;
+  left: 0; /* Color of the stroke */
+  mask-size: cover;
+  -webkit-mask-size: contain;
+  mask-repeat: no-repeat;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.image-mask {
+  position: relative;
+  mask-size: cover;
+  -webkit-mask-size: contain;
+  z-index: 2;
+  mask-repeat: no-repeat;
+}
+
+.blob-mask-1 {
+  mask-image: url("./assets/blob-1.svg");
+  -webkit-mask-image: url("./assets/blob-1.svg");
+}
+
+.blob-mask-2 {
+  mask-image: url("./assets/blob-2.svg");
+  -webkit-mask-image: url("./assets/blob-2.svg");
+}
+
+.blob-mask-3 {
+  mask-image: url("./assets/blob-3.svg");
+  -webkit-mask-image: url("./assets/blob-3.svg");
+}
+
+.blob-mask-4 {
+  mask-image: url("./assets/blob-4.svg");
+  -webkit-mask-image: url("./assets/blob-4.svg");
+}
+
+.blob-mask-5 {
+  mask-image: url("./assets/blob-5.svg");
+  -webkit-mask-image: url("./assets/blob-5.svg");
 }
 
 /*HOMEPAGE ==============================================*/
@@ -23,46 +77,30 @@ body {
   text-align: left;
 }
 
-.london-image {
+.hero-image {
   width: 100%;
   aspect-ratio: 1/1;
-  min-width: 400px;
+  min-width: 300px;
   object-fit: cover;
 }
 
-.mask-wrapper {
-  position: relative;
-  display: inline-block;
-}
-
-.mask-stroke {
-  position: absolute;
-  top: 0;
-  left: 0;
+.hero-wrapper {
   width: 100%;
-  min-width: 420px;
+  min-width: 320px;
   aspect-ratio: 1/1;
-  background-color: #4e6766; /* Color of the stroke */
-  mask-image: url("./assets/blob-1.svg"); /* Path to your SVG */
-  mask-size: cover;
-  -webkit-mask-image: url("./assets/blob-1.svg");
-  -webkit-mask-size: contain;
-  mask-repeat: no-repeat;
-  z-index: 1;
-  overflow: hidden;
 }
 
-.blob-mask-1 {
-  position: relative;
-  width: calc(100% - 20px);
-  min-width: 400px;
+.hero-stroke {
+  width: 100%;
+  min-width: 320px;
   aspect-ratio: 1/1;
-  mask-image: url("./assets/blob-1.svg");
-  mask-size: cover;
-  -webkit-mask-image: url("./assets/blob-1.svg");
-  -webkit-mask-size: contain;
-  z-index: 2;
-  mask-repeat: no-repeat;
+  background-color: #4e6766;
+}
+
+.hero-mask {
+  width: calc(100% - 20px);
+  min-width: 300px;
+  aspect-ratio: 1/1;
   top: 10px;
   left: 10px;
 }
@@ -77,10 +115,63 @@ body {
   text-align: center;
 }
 
+.project-card {
+  border-radius: 15px !important;
+}
+
 .project-card-image {
   width: 100%;
   aspect-ratio: 3/2;
   object-fit: cover;
+}
+
+.card-link {
+  border: 5px solid transparent;
+  display: block;
+  height: 100%;
+  color: unset;
+  text-decoration: none;
+  overflow: hidden;
+  border-radius: 15px;
+}
+
+.card-link:hover {
+  border: 5px solid #f7dd72;
+}
+
+/*PROFILE SECTION*/
+.profile-image {
+  width: 50%;
+  aspect-ratio: 1/1;
+  min-width: 200px;
+  object-fit: cover;
+}
+
+.profile-wrapper {
+  width: 50%;
+  min-width: 210px;
+  aspect-ratio: 1/1;
+}
+
+.profile-stroke {
+  width: 50%;
+  min-width: 210px;
+  aspect-ratio: 1/1;
+  background-color: #a5c882;
+}
+
+.profile-mask {
+  width: calc(50% - 10px);
+  min-width: 200px;
+  aspect-ratio: 1/1;
+  top: 5px;
+  left: 5px;
+}
+
+.holdProfile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /*!

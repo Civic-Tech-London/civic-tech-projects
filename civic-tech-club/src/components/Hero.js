@@ -2,6 +2,7 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import BlobImage from './BlobImage'
 
 const Hero = () => {
     return (
@@ -12,12 +13,7 @@ const Hero = () => {
                     <p>We are a small but mighty group of programmers, designers, and community-minded folk in London Ontario Canada. Every week we take an hour to work together on projects that can benefit the people of London.</p>
                 </Col>
                 <Col xs={12} md={6} className="d-flex justify-content-center align-items-center">
-                    <div className="mask-wrapper">
-                        <div className="mask-stroke"></div>
-                        <div className="blob-mask-1">
-                            <img src="/img/london.jpg" alt="" className="london-image" />
-                        </div>
-                    </div>
+                    <BlobImage image = "/img/london.jpg" imageAlt="" imageClass="london-image" blobNumber="3" type="hero"/>
                 </Col>
             </Row>
         </Container>
