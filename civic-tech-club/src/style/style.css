@@ -62,7 +62,7 @@ h3, .h3 {
 }
 
 .content-container {
-  height: 100vh;
+  min-height: 100vh;
   text-align: left;
 }
 
@@ -219,6 +219,10 @@ h3, .h3 {
 
 .budget-list li:hover {
   text-decoration: underline;
+}
+
+.graph {
+  height: 90vh;
 }
 
 /*!

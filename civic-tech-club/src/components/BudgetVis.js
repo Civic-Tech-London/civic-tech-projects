@@ -127,6 +127,8 @@ const BudgetVis = () => {
 
   // Zoom options to enable only box zoom
   const options = {
+    maintainAspectRatio: false, // This allows the chart to resize without keeping a fixed aspect ratio
+    responsive: true,
     layout: {
         padding: {
           right: 100, // Add 20px padding to the right (total 40px reduction in width)
@@ -208,13 +210,15 @@ const BudgetVis = () => {
             <li onClick={() => handleChartChange('Full-Time Equivalents')}>Full-Time Equivalents</li>
           </ul>
         </Col>
-        <Col xs={12} md={9}>
+        <Col xs={12} md={9} >
          <h2>{chartTitle}</h2>
-         <Line ref={chartRef} data={chartData} options={options} plugins={[endLabelPlugin]} />
+         <div className="graph">
+            <Line ref={chartRef} data={chartData} options={options} plugins={[endLabelPlugin]} />
+         </div>
           <button className="btn btn-primary" onClick={resetZoom}>Reset Zoom</button> {/* Reset zoom button */}
         </Col>
       </Row>
-      
+
     </>
   );
 };
