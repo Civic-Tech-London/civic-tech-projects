@@ -227,6 +227,14 @@ h3{
 
 /*PD CALENDAR=============================================*/
 
+/*BUDGET VISUALIZATION ===================================*/
+.budget-list li{
+    cursor:pointer;
+}
+
+.budget-list li:hover{
+    text-decoration:underline;
+}
 
 
 @import "bootstrap/scss/bootstrap";

@@ -138,7 +138,7 @@ const BudgetVis = () => {
         pan: {
           enabled: true,  // Disable panning entirely
         },
-        
+
         zoom: {
             enabled:true,
             drag:{
@@ -168,7 +168,7 @@ const BudgetVis = () => {
           },
         },
       },
-    
+
     hover: {
       mode: 'dataset', // Highlight the entire line when hovering
       onHover: function (event, chartElement) {
@@ -195,13 +195,12 @@ const BudgetVis = () => {
     }
   };
 
-  
-  
+
   return (
     <>
       <Row>
         <Col xs={12} md={3}>
-          <ul>
+          <ul class="budget-list">
             <li onClick={() => handleChartChange('Gross Operating Expenditures')}>Gross Operating Expenditures</li>
             <li onClick={() => handleChartChange('Other Revenues')}>Other Revenues</li>
             <li onClick={() => handleChartChange('Net Tax Levy Supported Operating Budget')}>Net Levy-Supported Operating</li>
@@ -211,6 +210,7 @@ const BudgetVis = () => {
         </Col>
         <Col xs={12} md={9}>
          <h2>{chartTitle}</h2>
+         <p><strong>Note:</strong> All monetary values are in 000s of dollars</p>
           <Line ref={chartRef} data={chartData} options={options} plugins={[endLabelPlugin]} />
           <button className="btn btn-primary" onClick={resetZoom}>Reset Zoom</button> {/* Reset zoom button */}
         </Col>
