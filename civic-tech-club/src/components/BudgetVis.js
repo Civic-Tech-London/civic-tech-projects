@@ -42,11 +42,13 @@ const COLORS = [
 const BudgetVis = () => {
   const [chartTitle, setChartTitle] = useState('');
   const [chartData, setChartData] = useState({ labels: [], datasets: [] });
+  
   const chartRef = useRef(null); // Create a ref for the chart
 
   useEffect(() => {
     // This code will run once when the component loads
     handleChartChange('Gross Operating Expenditures');
+    createCategoryLists();
   }, []); // The empty array makes it run only once, when the component mounts
 
   const handleChartChange = (title) => {
@@ -55,6 +57,11 @@ const BudgetVis = () => {
     setChartData(newChartData); // Update chart data with the new dataset
     resetZoom();
   };
+
+  function createCategoryLists(){
+    const uniqueCats = [...new Set(data.map(item => item.category))];
+    
+  }
 
   // Generate the line chart data with custom colors
   function getLine(budgetIndex, data) {
@@ -131,7 +138,7 @@ const BudgetVis = () => {
     responsive: true,
     layout: {
         padding: {
-          right: 100, // Add 20px padding to the right (total 40px reduction in width)
+          right: 150, // Add 20px padding to the right (total 40px reduction in width)
         },
       },
     plugins: {
@@ -203,11 +210,21 @@ const BudgetVis = () => {
       <Row>
         <Col xs={12} md={3}>
           <ul class="budget-list">
-            <li onClick={() => handleChartChange('Gross Operating Expenditures')}>Gross Operating Expenditures</li>
-            <li onClick={() => handleChartChange('Other Revenues')}>Other Revenues</li>
-            <li onClick={() => handleChartChange('Net Tax Levy Supported Operating Budget')}>Net Levy-Supported Operating</li>
-            <li onClick={() => handleChartChange('Total Capital Expenditures')}>Total Capital Expenditures</li>
-            <li onClick={() => handleChartChange('Full-Time Equivalents')}>Full-Time Equivalents</li>
+            <li onClick={() => handleChartChange('Gross Operating Expenditures')}>Gross Operating Expenditures
+              <div id="gross-op-expend-filter"></div>
+            </li>
+            <li onClick={() => handleChartChange('Other Revenues')}>Other Revenues
+              <div id="other-revenue-filter"></div>
+            </li>
+            <li onClick={() => handleChartChange('Net Tax Levy Supported Operating Budget')}>Net Levy-Supported Operating
+              <div id="tax-levy-filter"></div>
+            </li>
+            <li onClick={() => handleChartChange('Total Capital Expenditures')}>Total Capital Expenditures
+              <div id="total-cap-expend-filter"></div>
+            </li>
+            <li onClick={() => handleChartChange('Full-Time Equivalents')}>Full-Time Equivalents
+              <div id="fte-filter"></div>
+            </li>
           </ul>
         </Col>
         <Col xs={12} md={9} >
