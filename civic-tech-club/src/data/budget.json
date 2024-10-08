@@ -1,0 +1,3994 @@
+[
+    {
+        "service": "Corporate Management",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.03",
+        "net-prop-supported-budget-percentage": "0.28%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$2,553",
+                "2025": "$2,567",
+                "2026": "$2,578",
+                "2027": "$2,588"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$19",
+                "2025": "-$20",
+                "2026": "-$20",
+                "2027": "-$20"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$2,534",
+                "2025": "$2,547",
+                "2026": "$2,558",
+                "2027": "$2,568"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "12.0",
+                "2025": "12.0",
+                "2026": "12.0",
+                "2027": "12.0"
+            }
+        ]
+    },
+    {
+        "service": "Bylaw Enforcement and Property Standards",
+        "category":"Protective Services",
+        "cost-per-day": "$0.02",
+        "net-prop-supported-budget-percentage": "0.21%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$4,822",
+                "2025": "$5,056",
+                "2026": "$5,299",
+                "2027": "$5,321"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$3,080",
+                "2025": "-$3,200",
+                "2026": "-$3,330",
+                "2027": "-$3,330"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$1,742",
+                "2025": "$1,856",
+                "2026": "$1,969",
+                "2027": "$1,991"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "43.9",
+                "2025": "44.9",
+                "2026": "44.9",
+                "2027": "44.9"
+            }
+        ]
+    },
+    {
+        "service": "Fleet Services",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.00%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$78",
+                "2025": "$78",
+                "2026": "$78",
+                "2027": "$78"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$78",
+                "2025": "-$78",
+                "2026": "-$78",
+                "2027": "-$78"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$9,861",
+                "2025": "$9,904",
+                "2026": "$4,716",
+                "2027": "$6,467"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "54.2",
+                "2025": "54.2",
+                "2026": "54.2",
+                "2027": "54.2"
+            }
+        ]
+    },
+    {
+        "service": "Accessibility for Ontarians with Disabilities Act (AODA)",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.04%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$389",
+                "2025": "$390",
+                "2026": "$390",
+                "2027": "$391"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$0",
+                "2025": "-$0",
+                "2026": "-$0",
+                "2027": "-$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$389",
+                "2025": "$390",
+                "2026": "$390",
+                "2027": "$391"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "1.0",
+                "2025": "1.0",
+                "2026": "1.0",
+                "2027": "1.0"
+            }
+        ]
+    },
+    {
+        "service": "Heritage",
+        "category":"Culture",
+        "cost-per-day": "$0.01",
+        "net-prop-supported-budget-percentage": "0.06%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$514",
+                "2025": "$521",
+                "2026": "$539",
+                "2027": "$535"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$0",
+                "2025": "-$0",
+                "2026": "-$0",
+                "2027": "-$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$514",
+                "2025": "$521",
+                "2026": "$539",
+                "2027": "$535"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$625",
+                "2025": "$625",
+                "2026": "$625",
+                "2027": "$625"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "4",
+                "2025": "4",
+                "2026": "4",
+                "2027": "4"
+            }
+        ]
+    },
+    {
+        "service": "Dispatch",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.01",
+        "net-prop-supported-budget-percentage": "0.10%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$1,240",
+                "2025": "$1,248",
+                "2026": "$1,254",
+                "2027": "$1,261"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$343",
+                "2025": "-$351",
+                "2026": "-$358",
+                "2027": "-$365"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$897",
+                "2025": "$897",
+                "2026": "$896",
+                "2027": "$896"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "8.0",
+                "2025": "8.0",
+                "2026": "8.0",
+                "2027": "8.0"
+            }
+        ]
+    },
+    {
+        "service": "London Regional Employment Services",
+        "category": "Housing, Social and Health Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.00%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$31,967",
+                "2025": "$31,967",
+                "2026": "$31,967",
+                "2027": "$31,967"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$31,967",
+                "2025": "-$31,967",
+                "2026": "-$31,967",
+                "2027": "-$31,967"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "15",
+                "2025": "15",
+                "2026": "15",
+                "2027": "15"
+            }
+        ]
+    },
+    {
+        "service": "Facilities",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.33",
+        "net-prop-supported-budget-percentage": "3.03%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$26,877",
+                "2025": "$27,750",
+                "2026": "$28,448",
+                "2027": "$28,997"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$573",
+                "2025": "-$585",
+                "2026": "-$596",
+                "2027": "-$608"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating\nBudget",
+                "2024": "$26,304",
+                "2025": "$27,165",
+                "2026": "$27,852",
+                "2027": "$28,389"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$129,578",
+                "2025": "$14,752",
+                "2026": "$13,904",
+                "2027": "$9,215"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "72.9",
+                "2025": "73.9",
+                "2026": "74.9",
+                "2027": "74.9"
+            }
+        ]
+    },
+    {
+        "service": "London Transit Commission",
+        "category": "Transportation Services",
+        "cost-per-day": "$0.81",
+        "net-prop-supported-budget-percentage": "7.43%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$112,663",
+                "2025": "$119,717",
+                "2026": "$126,455",
+                "2027": "$133,497"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$54,314",
+                "2025": "-$55,251",
+                "2026": "-$56,214",
+                "2027": "-$57,211"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$58,349",
+                "2025": "$64,466",
+                "2026": "$70,241",
+                "2027": "$76,286"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$23,913",
+                "2025": "$18,580",
+                "2026": "$21,034",
+                "2027": "$21,657"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "652.4",
+                "2025": "672.8",
+                "2026": "689.2",
+                "2027": "706.1"
+            }
+        ]
+    },
+    {
+        "service": "Middlesex-London Health Unit",
+        "category": "Housing, Social and Health Services",
+        "cost-per-day": "$0.10",
+        "net-prop-supported-budget-percentage": "0.87%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$7,565",
+                "2025": "$7,792",
+                "2026": "$8,025",
+                "2027": "$8,266"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$7,565",
+                "2025": "$7,792",
+                "2026": "$8,025",
+                "2027": "$8,266"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "288.4",
+                "2025": "282.8",
+                "2026": "282.8",
+                "2027": "282.8"
+            }
+        ]
+    },
+    {
+        "service": "Traffic Control Street Lights",
+        "category": "Transportation Services",
+        "cost-per-day": "$0.22",
+        "net-prop-supported-budget-percentage": "1.99%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$23,371",
+                "2025": "$25,034",
+                "2026": "$25,354",
+                "2027": "$25,784"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$6,230",
+                "2025": "-$7,232",
+                "2026": "-$7,034",
+                "2027": "-$7,036"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$17,141",
+                "2025": "$17,802",
+                "2026": "$18,320",
+                "2027": "$18,748"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$14,378",
+                "2025": "$9,864",
+                "2026": "$10,313",
+                "2027": "$10,329"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "36.2",
+                "2025": "36.2",
+                "2026": "36.2",
+                "2027": "36.2"
+            }
+        ]
+    },
+    {
+        "service": "Covent Garden Market",
+        "category":"Economic Prosperity",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.00%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$0",
+                "2025": "-$0",
+                "2026": "-$0",
+                "2027": "-$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$5,577",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "6.0",
+                "2025": "6.0",
+                "2026": "6.0",
+                "2027": "6.0"
+            }
+        ]
+    },
+    {
+        "service": "Purchasing",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.02",
+        "net-prop-supported-budget-percentage": "0.18%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$2,290",
+                "2025": "$2,345",
+                "2026": "$2,407",
+                "2027": "$2,415"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$749",
+                "2025": "-$773",
+                "2026": "-$785",
+                "2027": "-$803"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$1,541",
+                "2025": "$1,572",
+                "2026": "$1,622",
+                "2027": "$1,612"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "24.7",
+                "2025": "24.7",
+                "2026": "24.7",
+                "2027": "24.7"
+            }
+        ]
+    },
+    {
+        "service": "Emergency Management",
+        "category":"Protective Services",
+        "cost-per-day": "$0.02",
+        "net-prop-supported-budget-percentage": "0.17%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$1,569",
+                "2025": "$1,581",
+                "2026": "$1,595",
+                "2027": "$1,600"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$0",
+                "2025": "-$0",
+                "2026": "-$0",
+                "2027": "-$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$1,569",
+                "2025": "$1,581",
+                "2026": "$1,595",
+                "2027": "$1,600"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$1,874",
+                "2025": "$3,074",
+                "2026": "$2,599",
+                "2027": "$850"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "6.0",
+                "2025": "6.0",
+                "2026": "6.0",
+                "2027": "6.0"
+            }
+        ]
+    },
+    {
+        "service": "Geomatics",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.02",
+        "net-prop-supported-budget-percentage": "0.18%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$2,463",
+                "2025": "$2,522",
+                "2026": "$2,577",
+                "2027": "$2,594"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$911",
+                "2025": "-$930",
+                "2026": "-$949",
+                "2027": "-$968"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$1,552",
+                "2025": "$1,592",
+                "2026": "$1,628",
+                "2027": "$1,626"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "16.0",
+                "2025": "16.0",
+                "2026": "16.0",
+                "2027": "16.0"
+            }
+        ]
+    },
+    {
+        "service": "London Public Library",
+        "category":"Culture",
+        "cost-per-day": "$0.31",
+        "net-prop-supported-budget-percentage": "2.81%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$23,842",
+                "2025": "$24,738",
+                "2026": "$25,996",
+                "2027": "$27,342"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$165",
+                "2025": "-$0",
+                "2026": "-$0",
+                "2027": "-$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$23,677",
+                "2025": "$24,738",
+                "2026": "$25,996",
+                "2027": "$27,342"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$6,436",
+                "2025": "$1,095",
+                "2026": "$1,665",
+                "2027": "$1,825"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "207.5",
+                "2025": "209.0",
+                "2026": "209.5",
+                "2027": "209.5"
+            }
+        ]
+    },
+    {
+        "service": "Subsidized Transit",
+        "category": "Housing, Social and Health Services",
+        "cost-per-day": "$0.02",
+        "net-prop-supported-budget-percentage": "0.17%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$1,512",
+                "2025": "$1,512",
+                "2026": "$1,512",
+                "2027": "$1,512"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$0",
+                "2025": "-$0",
+                "2026": "-$0",
+                "2027": "-$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$1,512",
+                "2025": "$1,512",
+                "2026": "$1,512",
+                "2027": "$1,512"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "N/A",
+                "2025": "N/A",
+                "2026": "N/A",
+                "2027": "N/A"
+            }
+        ]
+    },
+    {
+        "service": "Parks and Horticulture",
+        "category":"Parks, Recreation and Neighbourhood Services",
+        "cost-per-day": "$0.12",
+        "net-prop-supported-budget-percentage": "1.07%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$9,555",
+                "2025": "$9,666",
+                "2026": "$9,741",
+                "2027": "$9,743"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$0",
+                "2025": "-$0",
+                "2026": "-$7",
+                "2027": "-$21"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$9,555",
+                "2025": "$9,666",
+                "2026": "$9,734",
+                "2027": "$9,722"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$2,225",
+                "2025": "$810",
+                "2026": "$1,002",
+                "2027": "$902"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "85.2",
+                "2025": "85.2",
+                "2026": "84.7",
+                "2027": "82.7"
+            }
+        ]
+    },
+    {
+        "service": "Kettle Creek Conservation Authority",
+        "category":"Environmental Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.03%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$2,974",
+                "2025": "$3,013",
+                "2026": "$3,098",
+                "2027": "$3,188"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$2,329",
+                "2025": "-$2,321",
+                "2026": "-$2,378",
+                "2027": "-$2,439"
+            },
+            {
+                "Budget Summary": "Net Operating Budget",
+                "2024": "$645",
+                "2025": "$692",
+                "2026": "$720",
+                "2027": "$749"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$258",
+                "2025": "$277",
+                "2026": "$288",
+                "2027": "$299"
+            },
+            {
+                "Budget Summary": "Wastewater and Treatment Rate\nSupported Operating Budget",
+                "2024": "$387",
+                "2025": "$415",
+                "2026": "$432",
+                "2027": "$450"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "19.5",
+                "2025": "19.5",
+                "2026": "19.5",
+                "2027": "19.5"
+            }
+        ]
+    },
+    {
+        "service": "RBC Place",
+        "category":"Economic Prosperity",
+        "cost-per-day": "$0.01",
+        "net-prop-supported-budget-percentage": "0.08%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$708",
+                "2025": "$739",
+                "2026": "$774",
+                "2027": "$808"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$0",
+                "2025": "-$0",
+                "2026": "-$0",
+                "2027": "-$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$708",
+                "2025": "$739",
+                "2026": "$774",
+                "2027": "$808"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$2,506",
+                "2025": "$997",
+                "2026": "$2,717",
+                "2027": "$1,690"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "51.0",
+                "2025": "51.0",
+                "2026": "51.0",
+                "2027": "51.0"
+            }
+        ]
+    },
+    {
+        "service": "Museum London",
+        "category":"Culture",
+        "cost-per-day": "$0.03",
+        "net-prop-supported-budget-percentage": "0.24%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$2,002",
+                "2025": "$2,172",
+                "2026": "$2,279",
+                "2027": "$2,381"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$0",
+                "2025": "-$0",
+                "2026": "-$0",
+                "2027": "-$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$2,002",
+                "2025": "$2,172",
+                "2026": "$2,279",
+                "2027": "$2,381"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$820",
+                "2025": "$360",
+                "2026": "$410",
+                "2027": "$420"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "21",
+                "2025": "22",
+                "2026": "22",
+                "2027": "22"
+            }
+        ]
+    },
+    {
+        "service": "Municipal Elections",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "*0.00%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$400",
+                "2025": "$259",
+                "2026": "$2,407",
+                "2027": "$255"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$380",
+                "2025": "-$260",
+                "2026": "-$2,410",
+                "2027": "-$260"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$20",
+                "2025": "-$1",
+                "2026": "-$3",
+                "2027": "-$5"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "2.0",
+                "2025": "2.0",
+                "2026": "4.5",
+                "2027": "2.5"
+            }
+        ]
+    },
+    {
+        "service": "Community Development and Grants",
+        "category":"Parks, Recreation and Neighbourhood Services",
+        "cost-per-day": "$0.07",
+        "net-prop-supported-budget-percentage": "0.63%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$5,892",
+                "2025": "$5,978",
+                "2026": "$6,059",
+                "2027": "$6,107"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$270",
+                "2025": "-$271",
+                "2026": "-$271",
+                "2027": "-$272"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$5,622",
+                "2025": "$5,707",
+                "2026": "$5,788",
+                "2027": "$5,835"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$162",
+                "2027": "$12"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "18.0",
+                "2025": "18.0",
+                "2026": "18.0",
+                "2027": "18.0"
+            }
+        ]
+    },
+    {
+        "service": "Homemakers Land Ambulance",
+        "category": "Housing, Social and Health Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.01%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$197",
+                "2025": "$197",
+                "2026": "$197",
+                "2027": "$197"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$128",
+                "2025": "-$128",
+                "2026": "-$128",
+                "2027": "-$128"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$69",
+                "2025": "$69",
+                "2026": "$69",
+                "2027": "$69"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "0.4",
+                "2025": "0.4",
+                "2026": "0.4",
+                "2027": "0.4"
+            }
+        ]
+    },
+    {
+        "service": "People Services",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.08",
+        "net-prop-supported-budget-percentage": "0.70%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$7,085",
+                "2025": "$7,282",
+                "2026": "$7,396",
+                "2027": "$7,113"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$857",
+                "2025": "-$876",
+                "2026": "-$893",
+                "2027": "-$912"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$6,228",
+                "2025": "$6,406",
+                "2026": "$6,503",
+                "2027": "$6,201"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$915",
+                "2026": "$300",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "48.3",
+                "2025": "48.3",
+                "2026": "48.3",
+                "2027": "48.3"
+            }
+        ]
+    },
+    {
+        "service": "Special Events Coordination",
+        "category":"Parks, Recreation and Neighbourhood Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.05%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$533",
+                "2025": "$550",
+                "2026": "$568",
+                "2027": "$577"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$142",
+                "2025": "-$145",
+                "2026": "-$148",
+                "2027": "-$151"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$391",
+                "2025": "$405",
+                "2026": "$420",
+                "2027": "$426"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "4.9",
+                "2025": "4.9",
+                "2026": "4.9",
+                "2027": "4.9"
+            }
+        ]
+    },
+    {
+        "service": "Roadway Maintenance",
+        "category": "Transportation Services",
+        "cost-per-day": "$0.18",
+        "net-prop-supported-budget-percentage": "1.62%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$18,958",
+                "2025": "$19,166",
+                "2026": "$19,365",
+                "2027": "$19,568"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$4,445",
+                "2025": "-$4,542",
+                "2026": "-$4,637",
+                "2027": "-$4,734"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$14,513",
+                "2025": "$14,624",
+                "2026": "$14,728",
+                "2027": "$14,834"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$10,892",
+                "2025": "$13,151",
+                "2026": "$955",
+                "2027": "$989"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "131.8",
+                "2025": "131.8",
+                "2026": "131.8",
+                "2027": "131.8"
+            }
+        ]
+    },
+    {
+        "service": "Urban Forestry",
+        "category":"Parks, Recreation and Neighbourhood Services",
+        "cost-per-day": "$0.08",
+        "net-prop-supported-budget-percentage": "0.70%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$6,533",
+                "2025": "$6,632",
+                "2026": "$6,736",
+                "2027": "$6,810"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$310",
+                "2025": "-$310",
+                "2026": "-$310",
+                "2027": "-$310"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$6,223",
+                "2025": "$6,322",
+                "2026": "$6,426",
+                "2027": "$6,500"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$3,053",
+                "2025": "$2,683",
+                "2026": "$2,633",
+                "2027": "$2,583"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "35.3",
+                "2025": "35.3",
+                "2026": "35.3",
+                "2027": "35.3"
+            }
+        ]
+    },
+    {
+        "service": "Housing Stability Services",
+        "category": "Housing, Social and Health Services",
+        "cost-per-day": "$0.18",
+        "net-prop-supported-budget-percentage": "1.67%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$37,026",
+                "2025": "$37,632",
+                "2026": "$38,845",
+                "2027": "$39,973"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$23,935",
+                "2025": "-$23,026",
+                "2026": "-$23,026",
+                "2027": "-$23,026"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$13,091",
+                "2025": "$14,606",
+                "2026": "$15,819",
+                "2027": "$16,947"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "46.83",
+                "2025": "42.83",
+                "2026": "42.83",
+                "2027": "42.83"
+            }
+        ]
+    },
+    {
+        "service": "Housing Services (Municipal Housing Development)",
+        "category": "Housing, Social and Health Services",
+        "cost-per-day": "$0.19",
+        "net-prop-supported-budget-percentage": "1.73%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$29,489",
+                "2025": "$30,160",
+                "2026": "$30,455",
+                "2027": "$30,707"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$15,299",
+                "2025": "-$14,640",
+                "2026": "-$14,209",
+                "2027": "-$13,796"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$14,190",
+                "2025": "$15,520",
+                "2026": "$16,246",
+                "2027": "$16,911"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$21,939",
+                "2025": "$10,900",
+                "2026": "$9,200",
+                "2027": "$900"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "22",
+                "2025": "30",
+                "2026": "32",
+                "2027": "34"
+            }
+        ]
+    },
+    {
+        "service": "Taxation",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.01",
+        "net-prop-supported-budget-percentage": "0.12%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$2,742",
+                "2025": "$3,061",
+                "2026": "$3,555",
+                "2027": "$3,450"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$2,060",
+                "2025": "-$2,080",
+                "2026": "-$2,085",
+                "2027": "-$2,090"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$682",
+                "2025": "$981",
+                "2026": "$1,470",
+                "2027": "$1,360"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "25.3",
+                "2025": "28.2",
+                "2026": "28.2",
+                "2027": "25.7"
+            }
+        ]
+    },
+    {
+        "service": "Storybook Gardens",
+        "category":"Parks, Recreation and Neighbourhood Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.03%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$2,237",
+                "2025": "$2,272",
+                "2026": "$2,306",
+                "2027": "$2,340"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$1,985",
+                "2025": "-$2,024",
+                "2026": "-$2,065",
+                "2027": "-$2,106"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$252",
+                "2025": "$248",
+                "2026": "$241",
+                "2027": "$234"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$107",
+                "2025": "$111",
+                "2026": "$114",
+                "2027": "$118"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "26.8",
+                "2025": "26.8",
+                "2026": "26.8",
+                "2027": "26.8"
+            }
+        ]
+    },
+    {
+        "service": "Development Services",
+        "category":"Planning and Development",
+        "cost-per-day": "$0.07",
+        "net-prop-supported-budget-percentage": "0.68%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$7,204",
+                "2025": "$7,940",
+                "2026": "$8,093",
+                "2027": "$8,108"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$1,691",
+                "2025": "-$1,691",
+                "2026": "-$1,691",
+                "2027": "-$1,691"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$5,513",
+                "2025": "$6,249",
+                "2026": "$6,402",
+                "2027": "$6,417"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$80",
+                "2025": "$45",
+                "2026": "$46",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "58.1",
+                "2025": "61.1",
+                "2026": "61.1",
+                "2027": "61.1"
+            }
+        ]
+    },
+    {
+        "service": "Community Centres",
+        "category":"Parks, Recreation and Neighbourhood Services",
+        "cost-per-day": "$0.03",
+        "net-prop-supported-budget-percentage": "0.26%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$4,155",
+                "2025": "$4,187",
+                "2026": "$4,224",
+                "2027": "$4,254"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$1,768",
+                "2025": "-$1,795",
+                "2026": "-$1,823",
+                "2027": "-$1,851"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$2,387",
+                "2025": "$2,392",
+                "2026": "$2,401",
+                "2027": "$2,403"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$2,222",
+                "2025": "$16,637",
+                "2026": "$3,500",
+                "2027": "$13,825"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "54.6",
+                "2025": "54.6",
+                "2026": "54.6",
+                "2027": "54.6"
+            }
+        ]
+    },
+    {
+        "service": "Ontario Works",
+        "category": "Housing, Social and Health Services",
+        "cost-per-day": "$0.19",
+        "net-prop-supported-budget-percentage": "1.71%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$143,186",
+                "2025": "$148,942",
+                "2026": "$151,224",
+                "2027": "$153,556"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$127,663",
+                "2025": "-$133,465",
+                "2026": "-$135,787",
+                "2027": "-$138,158"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$15,522",
+                "2025": "$15,477",
+                "2026": "$15,436",
+                "2027": "$15,398"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$100",
+                "2025": "$100",
+                "2026": "$185",
+                "2027": "$260"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "233",
+                "2025": "233",
+                "2026": "233",
+                "2027": "233"
+            }
+        ]
+    },
+    {
+        "service": "Secretariat Support",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.02",
+        "net-prop-supported-budget-percentage": "0.17%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$1,525",
+                "2025": "$1,546",
+                "2026": "$1,565",
+                "2027": "$1,571"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$27",
+                "2025": "-$28",
+                "2026": "-$29",
+                "2027": "-$29"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$1,498",
+                "2025": "$1,518",
+                "2026": "$1,536",
+                "2027": "$1,541"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$126",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "10.1",
+                "2025": "10.1",
+                "2026": "10.1",
+                "2027": "10.1"
+            }
+        ]
+    },
+    {
+        "service": "Fire Prevention and Education",
+        "category":"Protective Services",
+        "cost-per-day": "$0.05",
+        "net-prop-supported-budget-percentage": "0.50%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$4,758",
+                "2025": "$4,795",
+                "2026": "$4,824",
+                "2027": "$4,827"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$297",
+                "2025": "-$301",
+                "2026": "-$306",
+                "2027": "-$310"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$4,461",
+                "2025": "$4,494",
+                "2026": "$4,518",
+                "2027": "$4,517"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$390",
+                "2025": "$336",
+                "2026": "$279",
+                "2027": "$305"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "28",
+                "2025": "28",
+                "2026": "28",
+                "2027": "28"
+            }
+        ]
+    },
+    {
+        "service": "Internal Audit",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.04%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$338",
+                "2025": "$345",
+                "2026": "$352",
+                "2027": "$359"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$9",
+                "2025": "-$9",
+                "2026": "-$9",
+                "2027": "-$9"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$329",
+                "2025": "$336",
+                "2026": "$343",
+                "2027": "$350"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "0.0",
+                "2025": "0.0",
+                "2026": "0.0",
+                "2027": "0.0"
+            }
+        ]
+    },
+    {
+        "service": "Arenas",
+        "category":"Parks, Recreation and Neighbourhood Services",
+        "cost-per-day": "$0.02",
+        "net-prop-supported-budget-percentage": "0.14%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$8,140",
+                "2025": "$8,314",
+                "2026": "$8,437",
+                "2027": "$8,550"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$6,852",
+                "2025": "-$6,989",
+                "2026": "-$7,129",
+                "2027": "-$7,271"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$1,288",
+                "2025": "$1,325",
+                "2026": "$1,308",
+                "2027": "$1,279"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$9,294",
+                "2025": "$1,692",
+                "2026": "$948",
+                "2027": "$2,076"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "74.6",
+                "2025": "74.6",
+                "2026": "74.6",
+                "2027": "74.6"
+            }
+        ]
+    },
+    {
+        "service": "Art Culture and Heritage Advisory Funding",
+        "category":"Culture",
+        "cost-per-day": "$0.03",
+        "net-prop-supported-budget-percentage": "0.28%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$2,463",
+                "2025": "$2,483",
+                "2026": "$2,503",
+                "2027": "$2,523"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$0",
+                "2025": "-$0",
+                "2026": "-$0",
+                "2027": "-$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$2,463",
+                "2025": "$2,483",
+                "2026": "$2,503",
+                "2027": "$2,523"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$200",
+                "2025": "$210",
+                "2026": "$220",
+                "2027": "$230"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "1.4",
+                "2025": "1.4",
+                "2026": "1.4",
+                "2027": "1.4"
+            }
+        ]
+    },
+    {
+        "service": "Anti-Racism and Anti-Oppression (ARAO)",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.01",
+        "net-prop-supported-budget-percentage": "0.10%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$917",
+                "2025": "$921",
+                "2026": "$924",
+                "2027": "$927"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$0",
+                "2025": "-$0",
+                "2026": "-$0",
+                "2027": "-$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$917",
+                "2025": "$921",
+                "2026": "$924",
+                "2027": "$927"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "6.0",
+                "2025": "6.0",
+                "2026": "6.0",
+                "2027": "6.0"
+            }
+        ]
+    },
+    {
+        "service": "Information Technology Services",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.30",
+        "net-prop-supported-budget-percentage": "*2.77%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$24,317",
+                "2025": "$25,653",
+                "2026": "$26,326",
+                "2027": "$26,650"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$641",
+                "2025": "-$652",
+                "2026": "-$663",
+                "2027": "-$675"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$23,676",
+                "2025": "$25,001",
+                "2026": "$25,663",
+                "2027": "$25,975"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$3,267",
+                "2025": "$2,116",
+                "2026": "$2,663",
+                "2027": "$1,566"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "105.2",
+                "2025": "111.2",
+                "2026": "112.2",
+                "2027": "112.2"
+            }
+        ]
+    },
+    {
+        "service": "Legal Services",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.04",
+        "net-prop-supported-budget-percentage": "0.40%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$3,760",
+                "2025": "$3,779",
+                "2026": "$3,793",
+                "2027": "$3,807"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$123",
+                "2025": "-$125",
+                "2026": "-$127",
+                "2027": "-$129"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$3,637",
+                "2025": "$3,655",
+                "2026": "$3,667",
+                "2027": "$3,679"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "22.0",
+                "2025": "22.0",
+                "2026": "22.0",
+                "2027": "22.0"
+            }
+        ]
+    },
+    {
+        "service": "Winter Maintenance",
+        "category": "Transportation Services",
+        "cost-per-day": "$0.23",
+        "net-prop-supported-budget-percentage": "2.08%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$19,140",
+                "2025": "$19,365",
+                "2026": "$19,587",
+                "2027": "$19,814"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$600",
+                "2025": "-$600",
+                "2026": "-$600",
+                "2027": "-$600"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$18,540",
+                "2025": "$18,765",
+                "2026": "$18,987",
+                "2027": "$19,214"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$205",
+                "2025": "$415",
+                "2026": "$415",
+                "2027": "$165"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "64.1",
+                "2025": "64.1",
+                "2026": "64.1",
+                "2027": "64.1"
+            }
+        ]
+    },
+    {
+        "service": "Employee Systems",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.01",
+        "net-prop-supported-budget-percentage": "0.08%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$847",
+                "2025": "$853",
+                "2026": "$859",
+                "2027": "$865"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$99",
+                "2025": "-$101",
+                "2026": "-$103",
+                "2027": "-$105"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$748",
+                "2025": "$752",
+                "2026": "$756",
+                "2027": "$760"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$915",
+                "2026": "$300",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "7.0",
+                "2025": "7.0",
+                "2026": "7.0",
+                "2027": "7.0"
+            }
+        ]
+    },
+    {
+        "service": "Realty Services",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.01",
+        "net-prop-supported-budget-percentage": "0.10%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$1,949",
+                "2025": "$1,975",
+                "2026": "$2,008",
+                "2027": "$2,016"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$1,119",
+                "2025": "-$1,119",
+                "2026": "-$1,119",
+                "2027": "-$1,119"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$830",
+                "2025": "$856",
+                "2026": "$889",
+                "2027": "$897"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "12.0",
+                "2025": "12.0",
+                "2026": "12.0",
+                "2027": "12.0"
+            }
+        ]
+    },
+    {
+        "service": "Community Improvement BIA",
+        "category":"Economic Prosperity",
+        "cost-per-day": "$0.04",
+        "net-prop-supported-budget-percentage": "0.40%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$16,070",
+                "2025": "$14,829",
+                "2026": "$18,404",
+                "2027": "$9,361"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$13,256",
+                "2025": "-$11,271",
+                "2026": "-$14,808",
+                "2027": "-$4,650"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$2,814",
+                "2025": "$3,558",
+                "2026": "$3,596",
+                "2027": "$4,711"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "6.0",
+                "2025": "6.0",
+                "2026": "6.0",
+                "2027": "6.0"
+            }
+        ]
+    },
+    {
+        "service": "Building Approvals",
+        "category":"Planning and Development",
+        "cost-per-day": "$0.02",
+        "net-prop-supported-budget-percentage": "0.20%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$11,993",
+                "2025": "$12,239",
+                "2026": "$12,479",
+                "2027": "$12,536"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$10,451",
+                "2025": "-$10,467",
+                "2026": "-$10,483",
+                "2027": "-$10,500"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$1,542",
+                "2025": "$1,772",
+                "2026": "$1,996",
+                "2027": "$2,036"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$185",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "91.70",
+                "2025": "100.7",
+                "2026": "100.7",
+                "2027": "100.7"
+            }
+        ]
+    },
+    {
+        "service": "Councillors Office",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.03",
+        "net-prop-supported-budget-percentage": "0.25%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$2,211",
+                "2025": "$2,223",
+                "2026": "$2,234",
+                "2027": "$2,244"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$0",
+                "2025": "-$0",
+                "2026": "-$0",
+                "2027": "-$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$2,211",
+                "2025": "$2,223",
+                "2026": "$2,234",
+                "2027": "$2,244"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "20.0",
+                "2025": "20.0",
+                "2026": "20.0",
+                "2027": "20.0"
+            }
+        ]
+    },
+    {
+        "service": "Finance Payroll Services",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.02",
+        "net-prop-supported-budget-percentage": "0.15%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$1,467",
+                "2025": "$1,501",
+                "2026": "$1,526",
+                "2027": "$1,532"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$165",
+                "2025": "-$169",
+                "2026": "-$174",
+                "2027": "-$178"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$1,302",
+                "2025": "$1,332",
+                "2026": "$1,352",
+                "2027": "$1,354"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "15.8",
+                "2025": "15.8",
+                "2026": "15.8",
+                "2027": "15.8"
+            }
+        ]
+    },
+    {
+        "service": "Strategic Communications and Government Relations",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.03",
+        "net-prop-supported-budget-percentage": "0.23%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$2,127",
+                "2025": "$2,178",
+                "2026": "$2,216",
+                "2027": "$2,226"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$91",
+                "2025": "-$93",
+                "2026": "-$94",
+                "2027": "-$96"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$2,036",
+                "2025": "$2,085",
+                "2026": "$2,122",
+                "2027": "$2,130"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "16.0",
+                "2025": "16.0",
+                "2026": "16.0",
+                "2027": "16.0"
+            }
+        ]
+    },
+    {
+        "service": "Parking",
+        "category": "Transportation Services",
+        "cost-per-day": "$0.05",
+        "net-prop-supported-budget-percentage": "-0.47%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$4,510",
+                "2025": "$4,635",
+                "2026": "$4,709",
+                "2027": "$4731"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$8,088",
+                "2025": "-$9,109",
+                "2026": "-$9,219",
+                "2027": "-$9,329"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "-$3,578",
+                "2025": "-$4,474",
+                "2026": "-$4,510",
+                "2027": "-$4,598"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$800",
+                "2025": "$550",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "23.3",
+                "2025": "23.3",
+                "2026": "23.3",
+                "2027": "23.3"
+            }
+        ]
+    },
+    {
+        "service": "Service London",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.01",
+        "net-prop-supported-budget-percentage": "0.13%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$1,192",
+                "2025": "$1,214",
+                "2026": "$1,235",
+                "2027": "$1,239"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$30",
+                "2025": "-$30",
+                "2026": "-$31",
+                "2027": "-$32"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$1,162",
+                "2025": "$1,184",
+                "2026": "$1,204",
+                "2027": "$1,207"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "11.0",
+                "2025": "11.0",
+                "2026": "11.0",
+                "2027": "11.0"
+            }
+        ]
+    },
+    {
+        "service": "Mayor's Office Services",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.01",
+        "net-prop-supported-budget-percentage": "0.07%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$644",
+                "2025": "$648",
+                "2026": "$651",
+                "2027": "$654"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$0",
+                "2025": "-$0",
+                "2026": "-$0",
+                "2027": "-$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$644",
+                "2025": "$648",
+                "2026": "$651",
+                "2027": "$654"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "5.5",
+                "2025": "5.5",
+                "2026": "5.5",
+                "2027": "5.5"
+            }
+        ]
+    },
+    {
+        "service": "Parks Planning and Design",
+        "category":"Parks, Recreation and Neighbourhood Services",
+        "cost-per-day": "$0.02",
+        "net-prop-supported-budget-percentage": "0.14%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$1,240",
+                "2025": "$1,284",
+                "2026": "$1,324",
+                "2027": "$1,366"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$0",
+                "2025": "-$0",
+                "2026": "-$0",
+                "2027": "-$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$1,240",
+                "2025": "$1,284",
+                "2026": "$1,324",
+                "2027": "$1,366"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$13,214",
+                "2025": "$15,520",
+                "2026": "$11,620",
+                "2027": "$13,126"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "11.3",
+                "2025": "11.3",
+                "2026": "11.3",
+                "2027": "11.3"
+            }
+        ]
+    },
+    {
+        "service": "Other Related Financing",
+        "category": "Financial Management - Corporate Financing",
+        "cost-per-day": "$0.20",
+        "net-prop-supported-budget-percentage": "1.81%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$53,178",
+                "2025": "$63,514",
+                "2026": "$73,950",
+                "2027": "$86,630"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$63,480",
+                "2025": "-$48,572",
+                "2026": "-$49,461",
+                "2027": "-$50,208"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "-$10,302",
+                "2025": "$14,942",
+                "2026": "$24,489",
+                "2027": "$36,422"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "0",
+                "2025": "0",
+                "2026": "0",
+                "2027": "0"
+            }
+        ]
+    },
+    {
+        "service": "Centennial Hall",
+        "category":"Culture",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.02%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$849",
+                "2025": "$863",
+                "2026": "$873",
+                "2027": "$882"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$689",
+                "2025": "-$689",
+                "2026": "-$689",
+                "2027": "-$689"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$161",
+                "2025": "$174",
+                "2026": "$184",
+                "2027": "$194"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$224",
+                "2025": "$224",
+                "2026": "$224",
+                "2027": "$224"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "0",
+                "2025": "0",
+                "2026": "0",
+                "2027": "0"
+            }
+        ]
+    },
+    {
+        "service": "Immigration Services",
+        "category": "Housing, Social and Health Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.03%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$653",
+                "2025": "$668",
+                "2026": "$681",
+                "2027": "$695"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$367",
+                "2025": "-$379",
+                "2026": "-$388",
+                "2027": "-$398"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$286",
+                "2025": "$289",
+                "2026": "$293",
+                "2027": "$297"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "2",
+                "2025": "2",
+                "2026": "2",
+                "2027": "2"
+            }
+        ]
+    },
+    {
+        "service": "Sports Services",
+        "category":"Parks, Recreation and Neighbourhood Services",
+        "cost-per-day": "$0.02",
+        "net-prop-supported-budget-percentage": "0.17%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$2,400",
+                "2025": "$2,508",
+                "2026": "$2,559",
+                "2027": "$2,607"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$971",
+                "2025": "-$991",
+                "2026": "-$1,010",
+                "2027": "-$1,031"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$1,429",
+                "2025": "$1,517",
+                "2026": "$1,549",
+                "2027": "$1,576"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$360",
+                "2025": "$360",
+                "2026": "$390",
+                "2027": "$390"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "18.7",
+                "2025": "18.7",
+                "2026": "18.7",
+                "2027": "18.7"
+            }
+        ]
+    },
+    {
+        "service": "Garbage Recycling",
+        "category":"Environmental Services",
+        "cost-per-day": "$0.35",
+        "net-prop-supported-budget-percentage": "3.23%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$47,748",
+                "2025": "$49,683",
+                "2026": "$38,309",
+                "2027": "$38,811"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$20,412",
+                "2025": "-$20,093",
+                "2026": "-$8,461",
+                "2027": "-$8,768"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$27,336",
+                "2025": "$29,590",
+                "2026": "$29,848",
+                "2027": "$30,043"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$7,888",
+                "2025": "$6,627",
+                "2026": "$5,838",
+                "2027": "$27,909"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "116.6",
+                "2025": "116.6",
+                "2026": "116.6",
+                "2027": "116.6"
+            }
+        ]
+    },
+    {
+        "service": "Child Care and Early Years",
+        "category": "Housing, Social and Health Services",
+        "cost-per-day": "$0.10",
+        "net-prop-supported-budget-percentage": "0.87%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$119,739",
+                "2025": "$119,750",
+                "2026": "$119,760",
+                "2027": "$119,770"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$111,859",
+                "2025": "-$111,859",
+                "2026": "-$111,859",
+                "2027": "-$111,859"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$7,881",
+                "2025": "$7,891",
+                "2026": "$7,901",
+                "2027": "$7,912"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "28",
+                "2025": "28",
+                "2026": "28",
+                "2027": "28"
+            }
+        ]
+    },
+    {
+        "service": "Fire Rescue Services",
+        "category":"Protective Services",
+        "cost-per-day": "$0.86",
+        "net-prop-supported-budget-percentage": "7.89%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$70,559",
+                "2025": "$71,319",
+                "2026": "$72,142",
+                "2027": "$72,447"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$111",
+                "2025": "-$113",
+                "2026": "-$115",
+                "2027": "-$116"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$70,448",
+                "2025": "$71,206",
+                "2026": "$72,027",
+                "2027": "$72,331"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$18,306",
+                "2025": "$48,269",
+                "2026": "$8,331",
+                "2027": "$8,032"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "416.6",
+                "2025": "416.6",
+                "2026": "419.4",
+                "2027": "419.4"
+            }
+        ]
+    },
+    {
+        "service": "Human Rights",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.01",
+        "net-prop-supported-budget-percentage": "0.05%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$413",
+                "2025": "$414",
+                "2026": "$415",
+                "2027": "$417"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$0",
+                "2025": "-$0",
+                "2026": "-$0",
+                "2027": "-$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$413",
+                "2025": "$414",
+                "2026": "$415",
+                "2027": "$417"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "3.0",
+                "2025": "3.0",
+                "2026": "3.0",
+                "2027": "3.0"
+            }
+        ]
+    },
+    {
+        "service": "Eldon House",
+        "category":"Culture",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.04%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$362",
+                "2025": "$379",
+                "2026": "$396",
+                "2027": "$414"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$362",
+                "2025": "$379",
+                "2026": "$396",
+                "2027": "$414"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "5.5",
+                "2025": "5.5",
+                "2026": "6",
+                "2027": "6"
+            }
+        ]
+    },
+    {
+        "service": "Rapid Transit",
+        "category": "Transportation Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.03%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$294",
+                "2025": "$293",
+                "2026": "$294",
+                "2027": "$294"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$50",
+                "2025": "-$50",
+                "2026": "-$50",
+                "2027": "-$50"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$244",
+                "2025": "$243",
+                "2026": "$244",
+                "2027": "$244"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$145,207",
+                "2025": "$102,848",
+                "2026": "$19,672",
+                "2027": "$1,929"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "9.0",
+                "2025": "9.0",
+                "2026": "9.0",
+                "2027": "9.0"
+            }
+        ]
+    },
+    {
+        "service": "Adult Day",
+        "category": "Housing, Social and Health Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.01%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$771",
+                "2025": "$776",
+                "2026": "$777",
+                "2027": "$778"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$726",
+                "2025": "-$730",
+                "2026": "-$730",
+                "2027": "-$730"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$45",
+                "2025": "$46",
+                "2026": "$47",
+                "2027": "$49"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "4.2",
+                "2025": "4.2",
+                "2026": "4.2",
+                "2027": "4.2"
+            }
+        ]
+    },
+    {
+        "service": "Dearness Home Long Term Care",
+        "category": "Housing, Social and Health Services",
+        "cost-per-day": "$0.09",
+        "net-prop-supported-budget-percentage": "0.82%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$32,116",
+                "2025": "$32,563",
+                "2026": "$32,795",
+                "2027": "$33,042"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$24,807",
+                "2025": "-$25,089",
+                "2026": "-$25,380",
+                "2027": "-$25,669"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$7,309",
+                "2025": "$7,474",
+                "2026": "$7,415",
+                "2027": "$7,373"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$1,308",
+                "2025": "$1,308",
+                "2026": "$1,358",
+                "2027": "1358"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "283.2",
+                "2025": "283.2",
+                "2026": "283.2",
+                "2027": "283.2"
+            }
+        ]
+    },
+    {
+        "service": "Roadway Planning and Design",
+        "category": "Transportation Services",
+        "cost-per-day": "$0.05",
+        "net-prop-supported-budget-percentage": "0.49%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$5,744",
+                "2025": "$5,860",
+                "2026": "$5,986",
+                "2027": "$6,012"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$1,406",
+                "2025": "-$1,431",
+                "2026": "-$1,456",
+                "2027": "-$1,481"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$4,338",
+                "2025": "$4,429",
+                "2026": "$4,530",
+                "2027": "$4,531"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$94,189",
+                "2025": "$151,440",
+                "2026": "$112,693",
+                "2027": "$78,101"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "42.5",
+                "2025": "42.5",
+                "2026": "42.5",
+                "2027": "42.5"
+            }
+        ]
+    },
+    {
+        "service": "Water",
+        "category":"Wastewater and Treatment",
+        "cost-per-day": "unknown",
+        "net-prop-supported-budget-percentage": "unknown",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$103,501",
+                "2025": "$107,431",
+                "2026": "$111,550",
+                "2027": "$115,705"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$103,501",
+                "2025": "-$107,431",
+                "2026": "-$111,550",
+                "2027": "-$115,705"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$106,200",
+                "2025": "$61,725",
+                "2026": "$74,053",
+                "2027": "$78,115"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "100.5",
+                "2025": "101.0",
+                "2026": "101.0",
+                "2027": "101.0"
+            }
+        ]
+    },
+    {
+        "service": "Community Recreation and Leisure Programs",
+        "category":"Parks, Recreation and Neighbourhood Services",
+        "cost-per-day": "$0.02",
+        "net-prop-supported-budget-percentage": "0.18%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$4,016",
+                "2025": "$4,079",
+                "2026": "$4,138",
+                "2027": "$4,196"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$2,371",
+                "2025": "-$2,403",
+                "2026": "-$2,451",
+                "2027": "-$2,500"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$1,645",
+                "2025": "$1,676",
+                "2026": "$1,687",
+                "2027": "$1,696"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "70.3",
+                "2025": "70.3",
+                "2026": "70.3",
+                "2027": "70.3"
+            }
+        ]
+    },
+    {
+        "service": "Top of the Hall Cafeteria",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.02%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$467",
+                "2025": "$467",
+                "2026": "$468",
+                "2027": "$469"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$270",
+                "2025": "-$270",
+                "2026": "-$270",
+                "2027": "-$270"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$197",
+                "2025": "$197",
+                "2026": "$198",
+                "2027": "$199"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$75",
+                "2025": "$25",
+                "2026": "$25",
+                "2027": "$25"
+            }
+        ]
+    },
+    {
+        "service": "Risk Management",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.04%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$564",
+                "2025": "$568",
+                "2026": "$572",
+                "2027": "$575"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$181",
+                "2025": "-$183",
+                "2026": "-$185",
+                "2027": "-$187"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$383",
+                "2025": "$385",
+                "2026": "$387",
+                "2027": "$389"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "4.0",
+                "2025": "4.0",
+                "2026": "4.0",
+                "2027": "4.0"
+            }
+        ]
+    },
+    {
+        "service": "Economic Development",
+        "category":"Economic Prosperity",
+        "cost-per-day": "$0.10",
+        "net-prop-supported-budget-percentage": "0.90%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$8,386",
+                "2025": "$8,105",
+                "2026": "$8,280",
+                "2027": "$8,453"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$450",
+                "2025": "-$0",
+                "2026": "-$0",
+                "2027": "-$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$7,936",
+                "2025": "$8,105",
+                "2026": "$8,280",
+                "2027": "$8,453"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "9.1",
+                "2025": "9.1",
+                "2026": "9.1",
+                "2027": "1.1"
+            }
+        ]
+    },
+    {
+        "service": "London Middlesex Community Housing",
+        "category": "Housing, Social and Health Services",
+        "category":"Culture",
+        "cost-per-day": "$0.23",
+        "net-prop-supported-budget-percentage": "2.10%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$30,376",
+                "2025": "$32,592",
+                "2026": "$33,698",
+                "2027": "$34,971"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$13,595",
+                "2025": "-$13,735",
+                "2026": "-$13,942",
+                "2027": "-$14,154"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$16,781",
+                "2025": "$18,857",
+                "2026": "$19,756",
+                "2027": "$20,817"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$9,180",
+                "2025": "$20,550",
+                "2026": "$22,550",
+                "2027": "$14,350"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "111",
+                "2025": "127",
+                "2026": "127",
+                "2027": "128"
+            }
+        ]
+    },
+    {
+        "service": "Advisory Committees",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.01%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$118",
+                "2025": "$119",
+                "2026": "$120",
+                "2027": "$120"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$0",
+                "2025": "-$0",
+                "2026": "-$0",
+                "2027": "-$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$118",
+                "2025": "$119",
+                "2026": "$120",
+                "2027": "$121"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "0.0",
+                "2025": "0.0",
+                "2026": "0.0",
+                "2027": "0.0"
+            }
+        ]
+    },
+    {
+        "service": "Animal Services",
+        "category":"Protective Services",
+        "cost-per-day": "$0.03",
+        "net-prop-supported-budget-percentage": "0.24%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$3,675",
+                "2025": "$3,746",
+                "2026": "$3,815",
+                "2027": "$3,884"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$1,550",
+                "2025": "-$1,558",
+                "2026": "-$1,566",
+                "2027": "-$1,575"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$2,125",
+                "2025": "$2,188",
+                "2026": "$2,249",
+                "2027": "$2,309"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "4.0",
+                "2025": "4.0",
+                "2026": "4.0",
+                "2027": "4.0"
+            }
+        ]
+    },
+    {
+        "service": "Licensing and Certificates",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "-0.01%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$790",
+                "2025": "$811",
+                "2026": "$832",
+                "2027": "$836"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$905",
+                "2025": "-$905",
+                "2026": "-$905",
+                "2027": "-$905"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "-$115",
+                "2025": "-$94",
+                "2026": "-$73",
+                "2027": "-$69"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "8.0",
+                "2025": "8.0",
+                "2026": "8.0",
+                "2027": "8.0"
+            }
+        ]
+    },
+    {
+        "service": "Climate Change Environmental Stewardship",
+        "category":"Environmental Services",
+        "cost-per-day": "$0.02",
+        "net-prop-supported-budget-percentage": "0.19%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$1,881",
+                "2025": "$3,618",
+                "2026": "$2,291",
+                "2027": "$2,303"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$545",
+                "2025": "-$758",
+                "2026": "-$920",
+                "2027": "-$933"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$1,336",
+                "2025": "$2,860",
+                "2026": "$1,371",
+                "2027": "$1,370"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$540",
+                "2025": "$520",
+                "2026": "$470",
+                "2027": "$470"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "9.0",
+                "2025": "9.0",
+                "2026": "9.0",
+                "2027": "9.0"
+            }
+        ]
+    },
+    {
+        "service": "Security Services",
+        "category":"Protective Services",
+        "cost-per-day": "$0.03",
+        "net-prop-supported-budget-percentage": "0.29%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$2,704",
+                "2025": "$2,722",
+                "2026": "$2,740",
+                "2027": "$2,744"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$85",
+                "2025": "-$87",
+                "2026": "-$88",
+                "2027": "-$90"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$2,619",
+                "2025": "$2,635",
+                "2026": "$2,652",
+                "2027": "$2,654"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$250",
+                "2025": "$250",
+                "2026": "$255",
+                "2027": "$255"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "10.0",
+                "2025": "10.0",
+                "2026": "10.0",
+                "2027": "10.0"
+            }
+        ]
+    },
+    {
+        "service": "Aquatics",
+        "category":"Parks, Recreation and Neighbourhood Services",
+        "cost-per-day": "$0.02",
+        "net-prop-supported-budget-percentage": "0.19%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$5,349",
+                "2025": "$5,410",
+                "2026": "$5,492",
+                "2027": "$5,555"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$3,655",
+                "2025": "-$3,729",
+                "2026": "-$3,803",
+                "2027": "-$3,879"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$1,694",
+                "2025": "$1,681",
+                "2026": "$1,689",
+                "2027": "$1,676"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$662",
+                "2025": "$3,016",
+                "2026": "$1,341",
+                "2027": "$1,516"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "92.2",
+                "2025": "92.2",
+                "2026": "92.2",
+                "2027": "92.2"
+            }
+        ]
+    },
+    {
+        "service": "Wastewater and treatment",
+        "category":"Wastewater and Treatment",
+        "cost-per-day": "unknown",
+        "net-prop-supported-budget-percentage": "unknown",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$129,669",
+                "2025": "$137,462",
+                "2026": "$145,692",
+                "2027": "$153,340"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$129,669",
+                "2025": "-$137,462",
+                "2026": "-$145,692",
+                "2027": "-$153,340"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$176,206",
+                "2025": "$172,619",
+                "2026": "$154,340",
+                "2027": "$137,670"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "208.7",
+                "2025": "212.3",
+                "2026": "214.4",
+                "2027": "214.5"
+            }
+        ]
+    },
+    {
+        "service": "Capital Financing",
+        "category": "Financial Management - Corporate Financing",
+        "cost-per-day": "$1.90",
+        "net-prop-supported-budget-percentage": "17.31%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$64,195",
+                "2025": "$62,144",
+                "2026": "$62,911",
+                "2027": "$64,706"
+            },
+            {
+                "Budget Summary": "Gross Operating Expenditures \u2013 Debt Servicing",
+                "2024": "$22,543",
+                "2025": "$21,597",
+                "2026": "$33,143",
+                "2027": "$48,162"
+            },
+            {
+                "Budget Summary": "Gross Operating Expenditures \u2013 Reserve Funds",
+                "2024": "$56,672",
+                "2025": "$62,348",
+                "2026": "$64,036",
+                "2027": "$65,160"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$0",
+                "2025": "-$0",
+                "2026": "-$0",
+                "2027": "-$0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$143,410",
+                "2025": "$146,089",
+                "2026": "$160,090",
+                "2027": "$178,028"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "0",
+                "2025": "0",
+                "2026": "0",
+                "2027": "0"
+            }
+        ]
+    },
+    {
+        "service": "Information and Archive Management",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.02",
+        "net-prop-supported-budget-percentage": "0.21%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$1,885",
+                "2025": "$1,927",
+                "2026": "$1,969",
+                "2027": "$1,994"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$53",
+                "2025": "-$54",
+                "2026": "-$55",
+                "2027": "-$56"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$1,832",
+                "2025": "$1,873",
+                "2026": "$1,914",
+                "2027": "$1,938"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "9.0",
+                "2025": "9.0",
+                "2026": "9.0",
+                "2027": "9.0"
+            }
+        ]
+    },
+    {
+        "service": "Administration of Justice",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.01%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$3,713",
+                "2025": "$3,798",
+                "2026": "$3,877",
+                "2027": "$3,924"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$3,710",
+                "2025": "-$3,710",
+                "2026": "-$3,710",
+                "2027": "-$3,710"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$3",
+                "2025": "$88",
+                "2026": "$167",
+                "2027": "$214"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$250",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "14.0",
+                "2025": "14.0",
+                "2026": "14.0",
+                "2027": "14.0"
+            }
+        ]
+    },
+    {
+        "service": "Finance",
+        "category": "Financial Management - Corporate Financing",
+        "cost-per-day": "$0.11",
+        "net-prop-supported-budget-percentage": "1.00%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$11,615",
+                "2025": "$11,998",
+                "2026": "$12,217",
+                "2027": "$12,283"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$2,893",
+                "2025": "-$2,946",
+                "2026": "-$2,995",
+                "2027": "-$3,051"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$8,722",
+                "2025": "$9,052",
+                "2026": "$9,222",
+                "2027": "$9,232"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$891",
+                "2025": "$2,500",
+                "2026": "$1,237",
+                "2027": "$1,635"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "105.5",
+                "2025": "106.5",
+                "2026": "106.5",
+                "2027": "106.5"
+            }
+        ]
+    },
+    {
+        "service": "Tourism London",
+        "category":"Economic Prosperity",
+        "cost-per-day": "$0.03",
+        "net-prop-supported-budget-percentage": "0.29%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$5,319",
+                "2025": "$5,355",
+                "2026": "$5,415",
+                "2027": "$5,426"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$2,748",
+                "2025": "-$2,781",
+                "2026": "-$2,811",
+                "2027": "-$2,817"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$2,571",
+                "2025": "$2,574",
+                "2026": "$2,604",
+                "2027": "$2,609"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "16.5",
+                "2025": "16.5",
+                "2026": "16.5",
+                "2027": "16.5"
+            }
+        ]
+    },
+    {
+        "service": "Recreation Administration",
+        "category":"Parks, Recreation and Neighbourhood Services",
+        "cost-per-day": "$0.04",
+        "net-prop-supported-budget-percentage": "0.40%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$3,761",
+                "2025": "$3,874",
+                "2026": "$3,935",
+                "2027": "$3,956"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$286",
+                "2025": "-$262",
+                "2026": "-$233",
+                "2027": "-$212"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$3,475",
+                "2025": "$3,612",
+                "2026": "$3,702",
+                "2027": "$3,744"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$55",
+                "2025": "$120",
+                "2026": "$55",
+                "2027": "$480"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "21.5",
+                "2025": "21.5",
+                "2026": "21.5",
+                "2027": "21.5"
+            }
+        ]
+    },
+    {
+        "service": "Lower Thames Valley Conservation Authority",
+        "category":"Environmental Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.01%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$4,356",
+                "2025": "$4,547",
+                "2026": "$4,655",
+                "2027": "$4,766"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$4,164",
+                "2025": "-$4,345",
+                "2026": "-$4,447",
+                "2027": "-$4,552"
+            },
+            {
+                "Budget Summary": "Net Operating Budget",
+                "2024": "$192",
+                "2025": "$202",
+                "2026": "$208",
+                "2027": "$214"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$77",
+                "2025": "$81",
+                "2026": "$83",
+                "2027": "$85"
+            },
+            {
+                "Budget Summary": "Wastewater and Treatment Rate Supported\nOperating Budget",
+                "2024": "$115",
+                "2025": "$121",
+                "2026": "$125",
+                "2027": "$129"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "34",
+                "2025": "34",
+                "2026": "34",
+                "2027": "34"
+            }
+        ]
+    },
+    {
+        "service": "Planning Services",
+        "category":"Planning and Development",
+        "cost-per-day": "$0.05",
+        "net-prop-supported-budget-percentage": "0.48%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$5,651",
+                "2025": "$5,920",
+                "2026": "$6,150",
+                "2027": "$6,212"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$1,727",
+                "2025": "-$1,865",
+                "2026": "-$1,899",
+                "2027": "-$1,150"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$3,924",
+                "2025": "$4,055",
+                "2026": "$4,251",
+                "2027": "$5,062"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$635",
+                "2025": "$365",
+                "2026": "$1,177",
+                "2027": "$557"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "40.0",
+                "2025": "44.0",
+                "2026": "44.0",
+                "2027": "44.0"
+            }
+        ]
+    },
+    {
+        "service": "Upper Thames River Conservation Authority",
+        "category":"Environmental Services",
+        "cost-per-day": "$0.03",
+        "net-prop-supported-budget-percentage": "0.29%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$24,368",
+                "2025": "$24,485",
+                "2026": "$25,230",
+                "2027": "$25,998"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$18,665",
+                "2025": "-$18,041",
+                "2026": "-$18,342",
+                "2027": "-$18,892"
+            },
+            {
+                "Budget Summary": "Net Operating Budget",
+                "2024": "$5,703",
+                "2025": "$6,444",
+                "2026": "$6,888",
+                "2027": "$7,106"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$2,281",
+                "2025": "$2,578",
+                "2026": "$2,755",
+                "2027": "$2,843"
+            },
+            {
+                "Budget Summary": "Wastewater and Treatment Rate Supported Operating Budget",
+                "2024": "$3,422",
+                "2025": "$3,866",
+                "2026": "$4,133",
+                "2027": "$4,263"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "155.0",
+                "2025": "156.0",
+                "2026": "157.0",
+                "2027": "157.0"
+            }
+        ]
+    },
+    {
+        "service": "Asset Management",
+        "category":"Corporate, Operational and Council Services",
+        "cost-per-day": "$0.01",
+        "net-prop-supported-budget-percentage": "0.05%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$986",
+                "2025": "$999",
+                "2026": "$1,016",
+                "2027": "$1,022"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$515",
+                "2025": "-$526",
+                "2026": "-$537",
+                "2027": "-$547"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$471",
+                "2025": "$473",
+                "2026": "$479",
+                "2027": "$475"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$500",
+                "2027": "$250"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "7.0",
+                "2025": "7.0",
+                "2026": "7.0",
+                "2027": "7.0"
+            }
+        ]
+    },
+    {
+        "service": "Golf",
+        "category":"Parks, Recreation and Neighbourhood Services",
+        "cost-per-day": "$0.00",
+        "net-prop-supported-budget-percentage": "0.00%",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$3,816",
+                "2025": "$3,856",
+                "2026": "$3,894",
+                "2027": "$3,933"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$3,816",
+                "2025": "-$3,856",
+                "2026": "-$3,894",
+                "2027": "-$3,933"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$0",
+                "2025": "$0",
+                "2026": "$0",
+                "2027": "$0"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$300",
+                "2025": "$300",
+                "2026": "$300",
+                "2027": "$300"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "33.4",
+                "2025": "33.4",
+                "2026": "33.4",
+                "2027": "33.4"
+            }
+        ]
+    }
+]
