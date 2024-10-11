@@ -43,69 +43,50 @@ const COLORS = [
   'rgba(18, 107, 145, 1)',
 ];
 
+  const initialState = {};
+
+  // Get the first category from the data
+  const firstCategory = "Culture";
+
+  
+  // Set all categories as unchecked initially, except the first category
+  data.forEach(service => {
+    initialState[service.category] = service.category === firstCategory;
+  });
+
+  // Ensure that the first category's datasets are visible initially
+  const firstVisibleDatasets = data
+    .filter(service => service.category === firstCategory)
+    .map(service => service.service);
+
 const BudgetVis = () => {
-  const [chartTitle, setChartTitle] = useState(''); // Track the title of the current chart
-  const [chartData, setChartData] = useState({ labels: [], datasets: [] }); // Store data to be displayed on the chart
-  const [visibleDatasets, setVisibleDatasets] = useState([]); // List of currently visible datasets
-  const [categoryChecked, setCategoryChecked] = useState({}); // Track which categories are checked (visible)
+  const [chartTitle, setChartTitle] = useState('Gross Operating Expenditures'); // Track the title of the current chart
+  const [chartData, setChartData] = useState({ labels: ['2024', '2025', '2026', '2027'], datasets: []}); // Store data to be displayed on the chart
+  const [visibleDatasets, setVisibleDatasets] = useState(firstVisibleDatasets); // List of currently visible datasets
+  const [categoryChecked, setCategoryChecked] = useState(initialState); // Track which categories are checked (visible)
   const chartRef = useRef(null); // Reference to the Chart.js chart instance (for zoom reset)
 
-  useEffect(() => {
-    // Initialize the state of checked categories and visible datasets
-    initializeCategoryCheckedState();
-    handleChartChange('Gross Operating Expenditures'); // Initialize chart with the default category after visible datasets are set
-  }, []);
-  
-  // Initialize the state of checked categories, with all categories unchecked by default
-  const initializeCategoryCheckedState = () => {
-    const initialState = {};
-    
-    // Get the first category from the data
-    const firstCategory = "Culture";
-    
-    // Set all categories as unchecked initially, except the first category
-    data.forEach(service => {
-      initialState[service.category] = service.category === firstCategory;
-    });
-  
-    // Ensure that the first category's datasets are visible initially
-    const firstVisibleDatasets = data
-      .filter(service => service.category === firstCategory)
-      .map(service => service.service);
-  
-    // Initialize the visibleDatasets first
-    setVisibleDatasets(firstVisibleDatasets); 
-    setCategoryChecked(initialState); // Set initial category checked state
-  };
-  
   // Use useEffect to ensure the chart data updates after visibleDatasets is set
   useEffect(() => {
-    if (visibleDatasets.length > 0) {
-      // Now that visibleDatasets is set, update the chart with the selected budget category
-      handleChartChange('Gross Operating Expenditures');
-    }
-  }, [visibleDatasets]);
-  
+    getLine(chartTitle, data);
+  }, [chartTitle]);
+
   // Handle chart updates when a new budget category is selected
   const handleChartChange = (title) => {
     setChartTitle(title); // Update chart title
-    
     // Generate the new data for the selected budget category (but keep current visibility state)
-    getLine(title, data);
-    resetZoom(); // Reset zoom on the chart
   };
   
   // Generate the line chart data based on the selected budget category
   function getLine(budgetIndex, data) {
     const myChartdata = {
-      labels: ['2024', '2025', '2026', '2027'],
-      datasets: [],
+        labels: chartData.labels,
+        datasets: [] // Clear previous datasets
     };
-  
     data.forEach((service, index) => {
       let proceed = false;
       let budgetObject = {};
-  
+
       // Find the relevant budget summary for the selected category
       service.budget.forEach((element) => {
         if (element['Budget Summary'] === budgetIndex) {
@@ -173,11 +154,6 @@ const BudgetVis = () => {
         hidden: !newVisibleDatasets.includes(dataset.label), // Hide datasets not in the visible list
       })),
     };
-    
-    // If no datasets are visible, ensure the chart still renders something valid
-   /* if (updatedChartData.datasets.every(dataset => dataset.hidden)) {
-      updatedChartData.datasets[0].hidden = false; // Keep at least one dataset visible to avoid rendering issues
-    }*/
   
     setChartData(updatedChartData); // Update the chart with the new visibility states
   }
@@ -281,7 +257,7 @@ const BudgetVis = () => {
       <Row>
         <Col xs={12} md={4}>
         <h3>Graphs</h3>
-        <ul class="budget-list">
+        <ul className="budget-list">
             <li onClick={() => handleChartChange('Gross Operating Expenditures')} className="m-2 h6">Gross Operating Expenditures</li>
             <li onClick={() => handleChartChange('Other Revenues')} className="m-2 h6">Other Revenues</li>
             <li onClick={() => handleChartChange('Net Tax Levy Supported Operating Budget')} className="m-2 h6">Net Levy-Supported Operating</li>
@@ -298,7 +274,7 @@ const BudgetVis = () => {
                     type="checkbox"
                     checked={categoryChecked[cat]} // Check/uncheck the category
                     onChange={() => toggleCategory(cat)} // Toggle the entire category
-                  /> <span class="cat-listing">{cat}</span>
+                  /> <span className="cat-listing">{cat}</span>
                 </label>
                 {categoryChecked[cat] && (<ul>
                   {data.filter(service => service.category === cat).map(service => (
