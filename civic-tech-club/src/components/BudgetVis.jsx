@@ -187,26 +187,24 @@ const BudgetVis = () => {
     afterDatasetDraw(chart) {
       const { ctx } = chart;
   
-      // Loop through all datasets
       chart.data.datasets.forEach((dataset, i) => {
-        // Check if the dataset is hidden (if `hidden` is true, skip drawing the label)
-        if (!dataset.hidden) {
-          const meta = chart.getDatasetMeta(i);
-          const lastPoint = meta.data[meta.data.length - 1]; // Get the last data point
+          if (!dataset.hidden) {
+              const meta = chart.getDatasetMeta(i);
+              const lastPoint = meta.data[meta.data.length - 1];
   
-          if (lastPoint) { // Ensure the last point exists
-            const x = lastPoint.x + 10; // Slightly offset the label from the point
-            const y = lastPoint.y;
+              if (lastPoint) {
+                  ctx.save(); // Save state
   
-            ctx.save();
-            ctx.font = '12px Arial';
-            ctx.fillStyle = dataset.borderColor; // Use the dataset's color for the label
-            ctx.fillText(dataset.label, x, y); // Draw the dataset label near the last point
-            ctx.restore();
+                  // Draw the label
+                  ctx.font = '12px Arial';
+                  ctx.fillStyle = dataset.borderColor;
+                  ctx.fillText(dataset.label, lastPoint.x + 10, lastPoint.y);
+  
+                  ctx.restore(); // Restore to original state
+              }
           }
-        }
       });
-    },
+  }
   };
   // Chart options including tooltips, hover, and zoom functionality
   const options = {
