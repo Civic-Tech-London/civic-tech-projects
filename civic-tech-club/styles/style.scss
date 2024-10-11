@@ -1,5 +1,6 @@
 
 
+
 @import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Hind:wght@300;400;500;600;700&display=swap');
 /* Override Bootstrap variables */
 $primary:#4e6766;
@@ -17,7 +18,10 @@ $dropdown-link-hover-bg:$primary-dark;
 
 
 /*GENERAL ================================================*/
-
+html, body,#root{
+    margin:0;
+    padding:0;
+}
 h2{
     font-weight:800;
 }
@@ -228,6 +232,11 @@ h3{
 /*PD CALENDAR=============================================*/
 
 /*BUDGET VISUALIZATION ===================================*/
+
+.budget-list{
+    margin-left:0;
+    padding-left:0;
+}
 .budget-list li{
     cursor:pointer;
     list-style-type: none;
@@ -235,6 +244,11 @@ h3{
 
 .budget-list li:hover{
     text-decoration:underline;
+}
+
+.cat-list{
+    margin-left:0;
+    padding-left:0;
 }
 
 .cat-list li{
@@ -262,7 +276,6 @@ h3{
     display: flex;
     align-items: center;
 }
-
 
 @import "bootstrap/scss/bootstrap";
 

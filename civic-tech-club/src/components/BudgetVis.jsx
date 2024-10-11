@@ -31,12 +31,16 @@ ChartJS.register(
 
 // Predefined colors for different datasets
 const COLORS = [
-  'rgba(75, 192, 192, 1)',
-  'rgba(255, 99, 132, 1)',
-  'rgba(54, 162, 235, 1)',
-  'rgba(255, 206, 86, 1)',
-  'rgba(153, 102, 255, 1)',
-  'rgba(255, 159, 64, 1)',
+  'rgba(133, 97, 0, 1)',
+  'rgba(129, 69, 1, 1)',
+  'rgba(128, 42, 2, 1)',
+  'rgba(146, 1, 14, 1)',
+  'rgba(128, 0, 55, 1)',
+  'rgba(96, 14, 86, 1)',
+  'rgba(63, 12, 133, 1)',
+  'rgba(0, 60, 156, 1)',
+  'rgba(9, 83, 152, 1)',
+  'rgba(18, 107, 145, 1)',
 ];
 
 const BudgetVis = () => {
@@ -276,6 +280,7 @@ const BudgetVis = () => {
     <>
       <Row>
         <Col xs={12} md={4}>
+        <h3>Graphs</h3>
         <ul class="budget-list">
             <li onClick={() => handleChartChange('Gross Operating Expenditures')} className="m-2 h6">Gross Operating Expenditures</li>
             <li onClick={() => handleChartChange('Other Revenues')} className="m-2 h6">Other Revenues</li>
@@ -284,6 +289,7 @@ const BudgetVis = () => {
             <li onClick={() => handleChartChange('Full-Time Equivalents')} className="m-2 h6">Full-Time Equivalents</li>
           </ul>
           <hr/>
+          <h3>Services</h3>
           <ul className="cat-list">
             {Object.keys(categoryChecked).map(cat => (
               <li key={cat}>
