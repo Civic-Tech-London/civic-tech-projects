@@ -1,5 +1,3 @@
-
-import './App.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';  // Your existing Home component
 import LondonBudget from './pages/LondonBudget'; // The new About component

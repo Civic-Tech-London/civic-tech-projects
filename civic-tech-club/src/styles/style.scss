@@ -1,9 +1,9 @@
 
 
+/* Override Bootstrap variables */
+
 
 @import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Hind:wght@300;400;500;600;700&display=swap');
-/* Override Bootstrap variables */
-$primary:#4e6766;
 
 $primary-dark:#1e152a;
 $secondary-dark:#4e6766;
@@ -11,20 +11,30 @@ $primary-light:#5ab1bb;
 $secondary-light:#a5c882;
 $tertiary-light:#f7dd72;
 
-$font-family-base: 'Hind', sans-serif; /* Change base font */
-$headings-font-family: 'Bitter', serif; /* Change headings font */
-$dropdown-bg:$secondary-dark;
-$dropdown-link-hover-bg:$primary-dark;
+
+$hind: 'Hind', sans-serif; /* Change base font */
+$bitter: 'Bitter', serif; /* Change headings font */
 
 
 /*GENERAL ================================================*/
 html, body,#root{
     margin:0;
     padding:0;
+    font-family:$hind;
+    --bs-primary:#1e152a !important;
 }
+h1,h2,h3,h4,h5,h6{
+    font-family:$bitter;
+}
+
+h1{
+    font-weight:600;
+}
+
 h2{
     font-weight:800;
 }
+
 h3{
     font-weight:600;
 }
@@ -93,7 +103,7 @@ h3{
 }
 
 .nav-bg a{
-    font-family:$headings-font-family;
+    font-family:$bitter;
     font-weight:600;
 }
 
@@ -269,13 +279,10 @@ h3{
     display: flex;
     align-items: center;
     gap: 5px;
-    
 }
 
 .item-label{
     display: flex;
     align-items: center;
 }
-
-@import "bootstrap/scss/bootstrap";
 
