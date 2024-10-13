@@ -1,0 +1,293 @@
+
+
+/* Override Bootstrap variables */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Hind:wght@300;400;500;600;700&display=swap');
+
+$primary-dark:#1e152a;
+$secondary-dark:#4e6766;
+$primary-light:#5ab1bb;
+$secondary-light:#a5c882;
+$tertiary-light:#f7dd72;
+
+
+$hind: 'Hind', sans-serif; /* Change base font */
+$bitter: 'Bitter', serif; /* Change headings font */
+
+
+/*GENERAL ================================================*/
+html, body,#root{
+    margin:0;
+    padding:0;
+    font-family:$hind;
+    --bs-primary:#1e152a !important;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family:$bitter;
+}
+
+.h1,.h2,.h3,.h4,.h5,.h6{
+    font-family:$bitter;
+}
+
+
+h1{
+    font-weight:600;
+}
+
+h2{
+    font-weight:800;
+}
+
+h3{
+    font-weight:600;
+}
+
+.mask-wrapper {
+    position: relative;
+    display:inline-block;
+}
+
+.mask-stroke {
+    position: absolute;
+    top: 0;
+    left: 0; /* Color of the stroke */
+    mask-size: cover;
+    -webkit-mask-size: contain;
+    mask-repeat:no-repeat;
+    z-index: 1;
+    overflow:hidden;
+}
+
+.image-mask {
+    position: relative;
+    mask-size: cover;
+    -webkit-mask-size: contain;
+    z-index: 2;
+    mask-repeat:no-repeat;
+}
+
+.blob-mask-1{
+    mask-image: url('./assets/blob-1.svg');
+    -webkit-mask-image: url('./assets/blob-1.svg');
+}
+
+.blob-mask-2{
+    mask-image: url('./assets/blob-2.svg');
+    -webkit-mask-image: url('./assets/blob-2.svg');
+}
+
+.blob-mask-3{
+    mask-image: url('./assets/blob-3.svg');
+    -webkit-mask-image: url('./assets/blob-3.svg');
+}
+
+.blob-mask-4{
+    mask-image: url('./assets/blob-4.svg');
+    -webkit-mask-image: url('./assets/blob-4.svg');
+}
+
+.blob-mask-5{
+    mask-image: url('./assets/blob-5.svg');
+    -webkit-mask-image: url('./assets/blob-5.svg');
+}
+
+.content-container{
+    min-height:100vh;
+    text-align:left;
+}
+
+
+
+/*HOMEPAGE ==============================================*/
+
+/*NAVIGATION*/
+.nav-bg{
+    background-color:$primary-dark;
+}
+
+.nav-bg a{
+    font-family:$bitter;
+    font-weight:600;
+}
+
+/*HERO*/
+.hero-text{
+    text-align:left;
+}
+.hero-image{
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    min-width:300px;
+    object-fit:cover;
+}
+
+.hero-wrapper{
+    width: 100%;
+    min-width:320px;
+    aspect-ratio: 1 / 1;
+}
+
+.hero-stroke{
+    width: 100%;
+    min-width:320px;
+    aspect-ratio: 1 / 1;
+    background-color: $primary-light;
+}
+
+.hero-mask{
+    width: calc(100% - 20px);
+    min-width:300px;
+    aspect-ratio: 1 / 1;
+    top: 10px;
+    left: 10px;
+}
+
+
+/*PROJECT SECTION*/
+.hold-project-container{
+    background-color:$secondary-dark;
+}
+
+.featured-header{
+    color:white;
+    text-align:center;
+}
+
+.project-card{
+    border-radius:15px !important;
+}
+.project-card-image{
+    width:100%;
+    aspect-ratio: 3 / 2;
+    object-fit:cover;
+}
+.card-link{
+    border:5px solid transparent;
+    display:block;
+    height:100%;
+    color:unset;
+    text-decoration:none;
+    overflow:hidden;
+    border-radius:15px;
+}
+
+.card-link:hover{
+    border:5px solid $tertiary-light;
+}
+
+
+/*PROFILE SECTION*/
+
+.profile-image{
+    width: 50%;
+    aspect-ratio: 1 / 1;
+    min-width:200px;
+    object-fit:cover;
+}
+
+.profile-wrapper{
+    width: 50%;
+    min-width:210px;
+    aspect-ratio: 1 / 1;
+}
+
+.profile-stroke{
+    width: 50%;
+    min-width:210px;
+    aspect-ratio: 1 / 1;
+    background-color: $secondary-light;
+}
+
+.profile-mask{
+    width: calc(50% - 10px);
+    min-width:200px;
+    aspect-ratio: 1 / 1;
+    top: 5px;
+    left: 5px;
+}
+
+.holdProfile{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+
+/*FOOTER*/
+#contact{
+    color:white;
+    background-color:$primary-dark;
+}
+
+#contact ul{
+    margin-left:0;
+    padding-left:0;
+}
+#contact ul li{
+    list-style-type:none;
+    margin-left:0;
+    padding-left:0;
+}
+#contact a{
+    color:white;
+    text-decoration:none;
+}
+
+#contact a:hover{
+    text-decoration:underline;
+}
+
+.footer-icon{
+    width:30px;
+    height:auto;
+    fill:white;
+}
+
+/*PD CALENDAR=============================================*/
+
+/*BUDGET VISUALIZATION ===================================*/
+
+.budget-list{
+    margin-left:0;
+    padding-left:0;
+}
+.budget-list li{
+    cursor:pointer;
+    list-style-type: none;
+}
+
+.budget-list li:hover{
+    text-decoration:underline;
+}
+
+.cat-list{
+    margin-left:0;
+    padding-left:0;
+}
+
+.cat-list li{
+    list-style-type:none;
+}
+
+.graph{
+    height:90vh;
+}
+
+
+.cat-listing{
+    display:inline;
+    flex-shrink:true;
+}
+
+.cat-label{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.item-label{
+    display: flex;
+    align-items: center;
+}
+
