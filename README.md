@@ -1,7 +1,7 @@
 # civic-tech-projects
 This contains a react app that holds the base website to hold all of the civic tech club projects.
 
-Make sure you have Docker installed first: https://docs.docker.com/desktop/install/windows-install/
+Make sure you have Docker installed first: https://docs.docker.com/engine/install/
 
 To run, navigate to the "civic-tech-club" directory, and run:
 `docker-compose up --build`
