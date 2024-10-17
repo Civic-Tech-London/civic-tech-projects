@@ -3,8 +3,7 @@ This contains a react app that holds the base website to hold all of the civic t
 
 Make sure you have Docker installed first: https://docs.docker.com/desktop/install/windows-install/
 
-To run navigate to civic-tech-club
-
+To run, navigate to the "civic-tech-club" directory, and run:
 `docker-compose up --build`
 
 ## PD day calendar
