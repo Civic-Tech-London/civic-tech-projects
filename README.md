@@ -1,9 +1,11 @@
 # civic-tech-projects
 This contains a react app that holds the base website to hold all of the civic tech club projects.
 
+Make sure you have Docker installed first: https://docs.docker.com/desktop/install/windows-install/
+
 To run navigate to civic-tech-club
 
-docker-compose up --build
+`docker-compose up --build`
 
 ## PD day calendar
 
