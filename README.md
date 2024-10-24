@@ -6,6 +6,10 @@ Make sure you have Docker installed first: https://docs.docker.com/engine/instal
 To run, navigate to the "civic-tech-club" directory, and run:
 `docker-compose up --build`
 
+Caching issues with Docker? Run the following commands:
+`docker-compose build --no-cache`
+`docker-compose up`
+
 To run through Vite witout Docker
 `npm run dev`
 
