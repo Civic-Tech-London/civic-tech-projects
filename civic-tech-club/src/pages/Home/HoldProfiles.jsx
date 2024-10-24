@@ -2,7 +2,7 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import Profile from './Profile'
+import Profile from '../../components/Profile'
 
 
 const HoldProfiles = () => {

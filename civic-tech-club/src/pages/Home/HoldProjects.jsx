@@ -1,5 +1,5 @@
 import React from 'react';
-import ProjectCard from './ProjectCard'
+import ProjectCard from '../../components/ProjectCard'
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import CardGroup from 'react-bootstrap/CardGroup'

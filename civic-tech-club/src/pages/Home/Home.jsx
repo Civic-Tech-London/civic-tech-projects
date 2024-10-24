@@ -1,9 +1,9 @@
 
 import React from 'react';
 import SiteNav from '../../components/SiteNav';
-import Hero from '../../components/Hero';
-import HoldProjects from '../../components/HoldProjects';
-import HoldProfiles from '../../components/HoldProfiles';
+import Hero from './Hero';
+import HoldProjects from './HoldProjects';
+import HoldProfiles from './HoldProfiles';
 import Footer from '../../components/Footer';
 
 
