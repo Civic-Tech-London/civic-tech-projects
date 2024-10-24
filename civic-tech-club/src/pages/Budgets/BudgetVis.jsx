@@ -12,7 +12,7 @@ import {
   Filler,
 } from 'chart.js';
 import zoomPlugin from 'chartjs-plugin-zoom';
-import data from '../data/budget.json'; // Importing budget data from local JSON file
+import data from '../../data/budget.json'; // Importing budget data from local JSON file
 import Row from 'react-bootstrap/Row'; // For layout (Bootstrap grid system)
 import Col from 'react-bootstrap/Col'; // For layout (Bootstrap grid system)
 
