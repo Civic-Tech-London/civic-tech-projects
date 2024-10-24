@@ -1,8 +1,8 @@
 
 import React from 'react';
-import SiteNav from '../components/SiteNav';
-import Footer from '../components/Footer';
-import PDCalContent from '../components/PDCalContent';
+import SiteNav from '../../components/SiteNav';
+import Footer from '../../components/Footer';
+import PDCalContent from './PDCalContent';
 
 function PDCalendar() {
   return (
