@@ -1,8 +1,8 @@
 
 import React from 'react';
-import SiteNav from '../components/SiteNav';
-import Footer from '../components/Footer';
-import BudgetContent from '../components/BudgetContent';
+import SiteNav from '../../components/SiteNav';
+import Footer from '../../components/Footer';
+import BudgetContent from './BudgetContent';
 
 function Home() {
   return (
