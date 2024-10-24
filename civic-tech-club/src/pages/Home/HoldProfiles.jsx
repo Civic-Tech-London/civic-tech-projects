@@ -15,7 +15,7 @@ const HoldProfiles = () => {
             </Row>
             <Row className="text-start">
                 <Col xs={12} lg={6}>
-                    <Profile name="Dave Cosman" image="/img/blank-profile.png" shapeNum = "2" blurb = "Est autem assumenda quas et ex in illum. Provident ipsa voluptate ducimus tempore mollitia animi dolorem. Quas corrupti quia dolorem eos est. Blanditiis libero maxime qui est."/>
+                    <Profile name="David Cosman" image="/img/david_c.jpg" shapeNum = "2" blurb = "David Cosman is a database developer with +5 years of experience, currently working remotely for Microsoft. He lives in London with his family."/>
                 </Col>
                 <Col xs={12} lg={6}>
                     <Profile name="Marty Penner" image="/img/blank-profile.png" shapeNum = "3" blurb = "Est autem assumenda quas et ex in illum. Provident ipsa voluptate ducimus tempore mollitia animi dolorem. Quas corrupti quia dolorem eos est. Blanditiis libero maxime qui est."/>
