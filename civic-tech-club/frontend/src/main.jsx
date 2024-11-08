@@ -9,3 +9,8 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
+
+// const domNode = document.getElementById('root');
+// const root = createRoot(domNode);
+
+// root.render(<App />);
