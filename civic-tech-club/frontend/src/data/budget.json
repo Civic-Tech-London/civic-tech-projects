@@ -3140,7 +3140,6 @@
     },
     {
         "service": "London Middlesex Community Housing",
-        "category": "Housing, Social and Health Services",
         "category":"Culture",
         "cost-per-day": "$0.23",
         "net-prop-supported-budget-percentage": "2.10%",

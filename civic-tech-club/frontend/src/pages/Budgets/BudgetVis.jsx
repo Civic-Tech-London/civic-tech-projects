@@ -47,7 +47,6 @@ const COLORS = [
 
   // Get the first category from the data
   const firstCategory = "Culture";
-
   
   // Set all categories as unchecked initially, except the first category
   data.forEach(service => {
