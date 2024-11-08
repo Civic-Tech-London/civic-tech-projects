@@ -1,5 +1,6 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const webpack = require('webpack');
 
 module.exports = {
     entry: path.join(__dirname, "frontend/src", "main.jsx"),
@@ -36,16 +37,11 @@ module.exports = {
             use: ['style-loader', 'css-loader', 'sass-loader'],
           },
           {
-            test: /\.(png|jpe?g|gif|svg)$/, // Match image files
-            use: [
-              {
-                loader: 'file-loader',
-                options: {
-                  name: '[name].[hash].[ext]', // Output naming pattern
-                  outputPath: 'assets/', // Directory to output the files
-                },
-              },
-            ],
+            test: /\.(jpg|jpeg|png|gif|svg|webp)$/i,  // File extensions for images
+            type: 'asset/resource', // You can use 'file-loader' here, but `asset/resource` is recommended for Webpack 5
+            generator: {
+              filename: 'images/[name].[hash][ext][query]', // Output folder structure
+            },
           },
           {
             test: /\.(woff|woff2|eot|ttf|otf)$/, // Match font files
@@ -61,18 +57,29 @@ module.exports = {
           },
           {
             test: /\.json$/,
-            type: 'asset/resource', // Webpack 5 asset modules
-            use: {
-              loader: 'file-loader',
-              options: {
-                name: '[name].[hash].[ext]',  // Customize the output name
-                outputPath: 'data/',         // Copy to the 'data' folder
-              },
-            },
-          },
+            loader: 'json-loader',
+            type: 'javascript/auto', // Ensures compatibility with webpack 4 and above
+          }
         ]
       },
-  devServer: {
-    port: 3000,
-  },
+      plugins: [
+        new HtmlWebpackPlugin({
+          template: 'frontend/public/index.html', // Template HTML file
+          filename: 'index.html', // Output HTML file
+        }),
+        new webpack.ProvidePlugin({
+          React: 'react',
+          ReactDOM: 'react-dom',
+        }),
+      ],
+      devServer: {
+        static: path.join(__dirname, 'dist'), // Serve files from the "dist" directory
+        port: 3000, // Set the development server port
+        hot: true, // Enable Hot Module Replacement
+        open: true, // Automatically open the browser
+        historyApiFallback: true, // For SPA routing (React Router, etc.)
+        compress: true, // Enable gzip compression
+        watchFiles: ['src/**/*', 'public/**/*'], // Watch files for changes
+      },
+      mode: 'development', //
 };

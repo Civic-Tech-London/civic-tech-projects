@@ -19,8 +19,8 @@ const Footer = () =>{
                     <Col xs={12} md={6}>
                         <h2>Contact</h2>
                         <ul>
-                            <li><a href="mailto:CivicTechLondon@gmail.com"><img src="/img/email-icon.svg" className="footer-icon m-1" alt="Email"/>CivicTechLondon@gmail.com</a></li>
-                            <li><a href="https://github.com/Civic-Tech-London"><img src="/img/github-icon.svg" className="footer-icon m-1" alt="Github"/>@Civic-Tech-London</a></li>
+                            <li><a href="mailto:CivicTechLondon@gmail.com"><img src="/assets/images/email-icon.svg" className="footer-icon m-1" alt="Email"/>CivicTechLondon@gmail.com</a></li>
+                            <li><a href="https://github.com/Civic-Tech-London"><img src="/assets/images/github-icon.svg" className="footer-icon m-1" alt="Github"/>@Civic-Tech-London</a></li>
                         </ul>
                     </Col>
                 </Row>
