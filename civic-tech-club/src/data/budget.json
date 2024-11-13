@@ -301,6 +301,49 @@
         ]
     },
     {
+        "service": "Land Ambulance",
+        "category": "Housing, Social and Health Services",
+        "cost-per-day": "N/A",
+        "net-prop-supported-budget-percentage":"N/A",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$30,195",
+                "2025": "$31,747",
+                "2026": "$33,530",
+                "2027": "$35,550"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "0",
+                "2025": "0",
+                "2026": "0",
+                "2027": "0"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$30,195",
+                "2025": "$31,747",
+                "2026": "$33,530",
+                "2027": "$35,550"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "N/A",
+                "2025": "N/A",
+                "2026": "N/A",
+                "2027": "N/A"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "N/A",
+                "2025": "N/A",
+                "2026": "N/A",
+                "2027": "N/A"
+            }
+        ]
+    },
+    {
         "service": "Facilities",
         "category":"Corporate, Operational and Council Services",
         "cost-per-day": "$0.33",
@@ -3394,6 +3437,49 @@
                 "2025": "10.0",
                 "2026": "10.0",
                 "2027": "10.0"
+            }
+        ]
+    },
+    {
+        "service": "London Police Services",
+        "category":"Protective Services",
+        "cost-per-day": "N/A",
+        "net-prop-supported-budget-percentage": "N/A",
+        "budget": [
+            {
+                "Budget Summary": "Gross Operating Expenditures",
+                "2024": "$171,289",
+                "2025": "$187,697",
+                "2026": "$197,294",
+                "2027": "$212,915"
+            },
+            {
+                "Budget Summary": "Other Revenues",
+                "2024": "-$10,448",
+                "2025": "-$9,734",
+                "2026": "-$9,411",
+                "2027": "-$9,420"
+            },
+            {
+                "Budget Summary": "Net Tax Levy Supported Operating Budget",
+                "2024": "$160,841",
+                "2025": "$177,964",
+                "2026": "$187,884",
+                "2027": "$203,496"
+            },
+            {
+                "Budget Summary": "Total Capital Expenditures",
+                "2024": "$30,203",
+                "2025": "$19,544",
+                "2026": "$7,996",
+                "2027": "$3,260"
+            },
+            {
+                "Budget Summary": "Full-Time Equivalents",
+                "2024": "N/A",
+                "2025": "N/A",
+                "2026": "N/A",
+                "2027": "N/A"
             }
         ]
     },

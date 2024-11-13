@@ -46,7 +46,7 @@ const COLORS = [
   const initialState = {};
 
   // Get the first category from the data
-  const firstCategory = "Culture";
+  const firstCategory = "Protective Services";
 
   
   // Set all categories as unchecked initially, except the first category
@@ -250,6 +250,15 @@ const BudgetVis = () => {
     }
   };
 
+  const chartDescriptions={
+    "Gross Operating Expenditures": "This value is the total amount spent for the service",
+    "Other Revenues":"This value is the total revenue that is brought in by a method other than taxation",
+    "Net Tax Levy Supported Operating Budget":"This is the amount of tax money spent on the service",
+    "Total Capital Expenditures":"This is the amount spent on (tangible) capital items. These are items like property, plant, and equipment which are typically high dollar value and their use spans over several years. They are 'capitalized' instead of the whole cost being expensed in one year, and their cost is amortized in a systematic way across their expected useful life.",
+    "Full-Time Equivalents":"Measures how many total full-time employees or part-time employees add up to full-time employees a company employs"
+
+  }
+
   return (
     <>
       <Row>
@@ -294,6 +303,7 @@ const BudgetVis = () => {
         </Col>
         <Col xs={12} md={8}>
           <h2>{chartTitle}</h2>
+          <p>{chartDescriptions[chartTitle]}</p>          
           <div className="graph">
             {chartData.datasets && chartData.datasets.length > 0 ? (
               <Line ref={chartRef} data={chartData} options={options} plugins={[endLabelPlugin]} />
