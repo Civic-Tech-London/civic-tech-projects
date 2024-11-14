@@ -49,10 +49,22 @@ export default tseslint.config({
 })
 ```
 
-```python
+Steps to build the Application (Frontend and Backend)
+
+Prerequistes:
+1. Node
+2. Python3
+
+Frontend Build:
+1. From root project, Run the below command to build the Vite = 'dist' frontend files(including images)
+npm install && npm run build
+
 Backend Integration:
 1. Create a Virtual Environment under root folder
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install Flask flask-cors
-```
+
+Run the Flask Application
+1. Inside the backend folder, run the below command
+python .\app.py
