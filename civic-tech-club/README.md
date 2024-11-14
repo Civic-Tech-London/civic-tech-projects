@@ -48,3 +48,11 @@ export default tseslint.config({
   },
 })
 ```
+
+```python
+Backend Integration:
+1. Create a Virtual Environment under root folder
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install Flask flask-cors
+```
