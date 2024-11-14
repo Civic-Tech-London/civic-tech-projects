@@ -8,7 +8,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "start": "webpack serve --mode development --open",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "start-webpack": "webpack-dev-server --mode development --open"
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
