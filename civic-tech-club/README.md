@@ -68,3 +68,6 @@ pip install Flask flask-cors
 Run the Flask Application
 1. Inside the backend folder, run the below command
 python .\app.py
+
+To get into Docker Image box
+docker exec -it nice_black sh
