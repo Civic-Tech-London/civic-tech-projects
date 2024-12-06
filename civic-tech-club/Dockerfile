@@ -1,20 +1,35 @@
-# Use the official Node.js image as the base image
-FROM node:22-alpine
+# Use an official Python runtime as a parent image
+FROM python:3.9-slim
 
-# Set the working directory inside the container
+# Set the working directory in the container
 WORKDIR /app
 
-# Copy package.json and package-lock.json to the working directory
-COPY package*.json ./
+# Install nodejs needed for the Frontend
+RUN apt-get update && apt-get upgrade -y && apt-get install -y nodejs npm
 
-# Install dependencies
-RUN npm install
+# Copy Front End files to the Docker WORKDIR
+COPY /frontend .
 
-# Copy the rest of the application files
-COPY . .
+# Build Front End files
+RUN npm install && npm run build
 
-# Expose the port that Vite uses (default is 5173)
-EXPOSE 8000
+# Copy Backend End files to the Docker WORKDIR
+COPY /backend .
 
-# Command to run the Vite development server
-CMD ["npm", "run", "dev"]
+# Build Backend End files
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Remove unnecessary files after installation 
+########## TODO ################################
+# RUN find . ! \( -name '__pycache__' -name 'node_modules' -o -name 'dist' -o -name 'app.py' \) -exec rm -rf {} +
+# RUN find . -mindepth 1 -not -name 'app.py' -not -name 'node_modules' -exec rm -rf {} +
+
+
+# Expose the port the app will run on
+EXPOSE 5000
+
+# Define environment variable ENV NAME
+ENV NAME World
+
+# Run app.py when the container launches 
+CMD ["gunicorn", "--bind", "0.0.0.0:80", "app:app"]
